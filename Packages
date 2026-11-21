@@ -6,13 +6,13 @@ Maintainer: Dev by Cường Trần
 Section: Tweaks
 Tag: role::hacker, purpose::extension, compatible::ios12, compatible::ios13, compatible::ios14, compatible::ios15, compatible::ios16, compatible::ios17, compatible::ios18, compatible::ios26
 Architecture: iphoneos-arm64e
-Version: 26.10.01-10+roothide-crack
+Version: 26.10.01-10+roothide-crack3
 Installed-Size: 12360
-Filename: https://cuongnt140494.github.io/kids-crack/debs/PUBLIC_KidsAutov4_26.10.01-10+roothide_iphoneos-arm64e_v2.deb
-Size: 6367788
-MD5sum: 57716706e1527d738e9144d24f345baa
-SHA1: 9afe4857ef8976e5797ce87678262f9de0694aa5
-SHA256: 73e9f10bbcb7fd22aef104565c017e4573f99a35c33e69cc1c977766f19de551
+Filename: https://cuongnt140494.github.io/kids-crack/debs/PUBLIC_KidsAutov4_26.10.01-10+roothide_iphoneos-arm64e_v3.deb
+Size: 6367806
+MD5sum: 2d2b038cdde6dc54482c470890912d18
+SHA1: 35d13c9dc68f80819b0a0384761006a37ab7cdee
+SHA256: 16d0f99501f1d4ec84433f2944a33a9bf324a6b35c66265d2d20ac791815afa8
 
 Package: com.kidsautopro.kidsauto
 Name: KidsAuto v4
@@ -22,13 +22,13 @@ Maintainer: Dev by Cường Trần
 Section: Tweaks
 Tag: role::hacker, purpose::extension, compatible::ios12, compatible::ios13, compatible::ios14, compatible::ios15, compatible::ios16, compatible::ios17, compatible::ios18, compatible::ios26
 Architecture: iphoneos-arm64
-Version: 26.10.01-10+rootless-crack
+Version: 26.10.01-10+rootless-crack3
 Installed-Size: 12412
-Filename: https://cuongnt140494.github.io/kids-crack/debs/PUBLIC_KidsAutov4_26.10.01-10+rootless_iphoneos-arm64_v2.deb
-Size: 6373420
-MD5sum: 32f5fae585fd9cb8ff9a4d573310f2d5
-SHA1: 862220a1cc9a6e628087f19327862364bdeda66c
-SHA256: afac7cf04d2c01b47403ef3fb94883361afac3f0d9ca0879a7144f21680f9f34
+Filename: https://cuongnt140494.github.io/kids-crack/debs/PUBLIC_KidsAutov4_26.10.01-10+rootless_iphoneos-arm64_v3.deb
+Size: 6373414
+MD5sum: 259efc814b4ebecaccf416aac027a976
+SHA1: adc00dbe1ae6e51c8c5f82e6acdbccf3cd189889
+SHA256: f2d798c8b980fa7fb588b061b6679c5816cddd4b1508b7426c620784001e94da
 
 Package: com.kidsautopro.kidsauto
 Name: KidsAuto v4
@@ -38,13 +38,13 @@ Maintainer: Dev by Cường Trần
 Section: Tweaks
 Tag: role::hacker, purpose::extension, compatible::ios12, compatible::ios13, compatible::ios14, compatible::ios15, compatible::ios16
 Architecture: iphoneos-arm
-Version: 26.09.09-10+rootfull-crack
+Version: 26.09.09-10+rootfull-crack3
 Installed-Size: 12260
-Filename: https://cuongnt140494.github.io/kids-crack/debs/Public_KidsAutov4_26.09.09-10+rootfull_iphoneos-arm_v2.deb
+Filename: https://cuongnt140494.github.io/kids-crack/debs/Public_KidsAutov4_26.09.09-10+rootfull_iphoneos-arm_v3.deb
 Size: 6241744
-MD5sum: 3da49ade7e1ee13aa93ee44da3c3e783
-SHA1: 30683ad03c03cee345be7680bbb53a5378d72355
-SHA256: de1cf8d2edc7a2a86fecfb3e9abaf20efb6c9c16ded4bc19d54bdccb537e1842
+MD5sum: 535d4eb6c3595d20ed2156d84049dd27
+SHA1: cc82454f7db2418d9d6cbcc44fd1327f54bd9421
+SHA256: 952417f7bc145169d7efe8c25e5a0775eb162772a4f1dea60ad7e91ea46d8ab6
 
 Package: com.kidsautopro.kidsauto
 Name: KidsAuto v4
@@ -54,13 +54,13 @@ Maintainer: Dev by Cường Trần
 Section: Tweaks
 Tag: role::hacker, purpose::extension, compatible::ios12, compatible::ios13, compatible::ios14, compatible::ios15, compatible::ios16
 Architecture: iphoneos-arm64e
-Version: 26.09.09-10+roothide-crack
+Version: 26.09.09-10+roothide-crack3
 Installed-Size: 12240
-Filename: https://cuongnt140494.github.io/kids-crack/debs/Public_KidsAutov4_26.09.09-10+roothide_iphoneos-arm64e_v2.deb
+Filename: https://cuongnt140494.github.io/kids-crack/debs/Public_KidsAutov4_26.09.09-10+roothide_iphoneos-arm64e_v3.deb
 Size: 6228566
-MD5sum: 47a2faffeccbede1efb2bd6d6c9440ea
-SHA1: 05f431873a330e9303b89cb6d98f3ab69b3dce2b
-SHA256: 8b43a0982385ce6fa29f2bf07cf5f6a1af06c613c0ee83518488b89cbd2aa388
+MD5sum: 7927a5f618178770b5107f163f1314be
+SHA1: ae2624db53676616fb7fe4004899c2c40eabcbcf
+SHA256: 41317ce06e2deda331855a43c42f1b26ba4d912d02adfa5b95cf6f592681e6cb
 
 Package: com.kidsautopro.kidsauto
 Name: KidsAuto v4
@@ -70,13 +70,13 @@ Maintainer: Dev by Cường Trần
 Section: Tweaks
 Tag: role::hacker, purpose::extension, compatible::ios12, compatible::ios13, compatible::ios14, compatible::ios15, compatible::ios16
 Architecture: iphoneos-arm64
-Version: 26.09.09-10+rootless-crack
+Version: 26.09.09-10+rootless-crack3
 Installed-Size: 12296
-Filename: https://cuongnt140494.github.io/kids-crack/debs/Public_KidsAutov4_26.09.09-10+rootless_iphoneos-arm64_v2.deb
-Size: 6252756
-MD5sum: a12580d7db2c6a8759e1f0062227ed64
-SHA1: e3c90c66b84c700e7b061f9f2f295b6c33593b46
-SHA256: 105829b1ad8d2d5f060e4ec5ed95c86dfcfde5b3aa869f238ba37bd3d6aec047
+Filename: https://cuongnt140494.github.io/kids-crack/debs/Public_KidsAutov4_26.09.09-10+rootless_iphoneos-arm64_v3.deb
+Size: 6252766
+MD5sum: abfe980bc7b5b9cbcfaf7c9d5f5ef684
+SHA1: 39ef0a712d1c2cfbc068a5a535513f0b273ec0c5
+SHA256: 627ac6a5e776cf0ce596591fc822d4547ae83351c4b30b12be690511294c4317
 
 Package: cm90.crossoveripc
 Name: CrossOverIPC
@@ -849,13 +849,13 @@ Pre-Depends: firmware (>= 13.4), ellekit, me.jjolano.fmwk.hookkit, me.jjolano.hk
 Depends: zip, unzip, gzip, rsync, sqlite3, openssh, openssl, ldid, com.opa334.libsandy, cm90.crossoveripc, com.simpzan.jetsamctl, preferenceloader, ws.hbang.common
 Conflicts: firmware (<< 13.4), com.kidsautopro.kidssupport, com.kidsautopro.kidsaction, com.kidsautopro.kidsautosetting, com.kids.utilities
 Architecture: iphoneos-arm
-Version: 4.1.5+rootfull-crack
+Version: 4.1.5+rootfull-crack3
 Installed-Size: 1824
-Filename: https://cuongnt140494.github.io/kids-crack/debs/com.iosapp.kidschanger_4.1.5+rootfull_iphoneos-arm_v2.deb
-Size: 1253836
-MD5sum: 01b853b340f37af45e905d123307d2b0
-SHA1: 470910e26ac58f591afb1e6599f3b98c05dbb163
-SHA256: 416c9875b0a8d0fd55a175d2e05f303e8c45ada577acd2d1a20877c627767dd7
+Filename: https://cuongnt140494.github.io/kids-crack/debs/com.iosapp.kidschanger_4.1.5+rootfull_iphoneos-arm_v3.deb
+Size: 1253834
+MD5sum: d77f86f62e0409e6eaea6792729e69f6
+SHA1: 2dc46fb8ee9f84f97f56cbea941f8d071381d10a
+SHA256: de7a27cc11435721fd599a1b4759db571f6aaf355ebd68fa0130d2ba74d56a0d
 
 Package: com.iosapp.kidschanger
 Name: iOS Kids Changer
@@ -868,13 +868,13 @@ Pre-Depends: firmware (>= 13.4), ellekit, me.jjolano.fmwk.hookkit, me.jjolano.hk
 Depends: zip, unzip, gzip, rsync, sqlite3, openssh, openssl, ldid, com.opa334.libsandy, cm90.crossoveripc, com.simpzan.jetsamctl, preferenceloader, ws.hbang.common
 Conflicts: firmware (<< 13.4), com.kidsautopro.kidssupport, com.kidsautopro.kidsaction, com.kidsautopro.kidsautosetting, com.kids.utilities
 Architecture: iphoneos-arm64e
-Version: 4.1.5+roothide-crack
+Version: 4.1.5+roothide-crack3
 Installed-Size: 1824
-Filename: https://cuongnt140494.github.io/kids-crack/debs/com.iosapp.kidschanger_4.1.5+roothide_iphoneos-arm64e_v2.deb
+Filename: https://cuongnt140494.github.io/kids-crack/debs/com.iosapp.kidschanger_4.1.5+roothide_iphoneos-arm64e_v3.deb
 Size: 1253952
-MD5sum: 4cee75d46e5aadb910bc8494aff318c7
-SHA1: 8a7c797529b0b2bc0fb0e7529a10f96580b5cb37
-SHA256: 22c091b13ad9de6bd825f2f3c3decb5a319b376231d30cb007b3de0f77863f72
+MD5sum: 5882b9f526fd156323c1cfbac397c28f
+SHA1: 303524b1a084e8b606d051fa3bd026fd97b90bfa
+SHA256: be4361e50aaab17a6b8d5cc504dcd45d4b445e8cf66ecf05cad36e4b27abf02f
 
 Package: com.iosapp.kidschanger
 Name: iOS Kids Changer
@@ -887,13 +887,13 @@ Pre-Depends: firmware (>= 13.4), ellekit, me.jjolano.fmwk.hookkit, me.jjolano.hk
 Depends: zip, unzip, gzip, rsync, sqlite3, openssh, openssl, ldid, com.opa334.libsandy, cm90.crossoveripc, com.simpzan.jetsamctl, preferenceloader, ws.hbang.common
 Conflicts: firmware (<< 13.4), com.kidsautopro.kidssupport, com.kidsautopro.kidsaction, com.kidsautopro.kidsautosetting, com.kids.utilities
 Architecture: iphoneos-arm64
-Version: 4.1.5+rootless-crack
+Version: 4.1.5+rootless-crack3
 Installed-Size: 1824
-Filename: https://cuongnt140494.github.io/kids-crack/debs/com.iosapp.kidschanger_4.1.5+rootless_iphoneos-arm64_v2.deb
+Filename: https://cuongnt140494.github.io/kids-crack/debs/com.iosapp.kidschanger_4.1.5+rootless_iphoneos-arm64_v3.deb
 Size: 1259236
-MD5sum: 92f479558466fe5987292243c5185713
-SHA1: 5172d83311b5d5746c8dcc9098892df895320671
-SHA256: aff7ff5ebe697aa267423b28033aa3f4d4abe46f8188ed83411bb3bc13350a0e
+MD5sum: c7660669e02a2e59d6a486d510f835f7
+SHA1: b4ddd54ef059aa84778f92965b1c5e22bd8b78c7
+SHA256: 73e06ee7a6833580402d3b8830179fc76afb530f2f0d25652afc662ad309d418
 
 Package: com.kids.utilities
 Name: Kids Utilities
@@ -1184,13 +1184,13 @@ Pre-Depends: firmware (>= 13.4), ellekit, me.jjolano.fmwk.hookkit, me.jjolano.hk
 Depends: zip, unzip, gzip, rsync, sqlite3, openssh, openssl, ldid, com.opa334.libsandy, cm90.crossoveripc, com.simpzan.jetsamctl, preferenceloader, ws.hbang.common
 Conflicts: firmware (<< 13.4), com.kidsautopro.kidssupport, com.kidsautopro.kidsaction, com.kidsautopro.kidsautosetting, com.kids.utilities
 Architecture: iphoneos-arm64e
-Version: 4.1.7+roothide-crack
+Version: 4.1.7+roothide-crack3
 Installed-Size: 1844
-Filename: https://cuongnt140494.github.io/kids-crack/debs/iOSKidsChanger_4.1.7+roothide_iphoneos-arm64e_v2.deb
-Size: 1274634
-MD5sum: 3bdddd98e7ee8984e17d22715826ad61
-SHA1: 225f660cc04cfc96760800f720187db4c85c578e
-SHA256: 29b85834c9a6ec898154e1d0f5c21c14becac5b7215f7885ef36256ccc902d44
+Filename: https://cuongnt140494.github.io/kids-crack/debs/iOSKidsChanger_4.1.7+roothide_iphoneos-arm64e_v3.deb
+Size: 1274630
+MD5sum: 4e85be711a2c1416a4be7b040c147ab5
+SHA1: 8f5889827fbb9220d82b680906bf0ce33245195c
+SHA256: 571ae17cb0d1ace0ca7d4718a78c9af49331a63204e60d49f88ac618b80c79cd
 
 Package: com.iosapp.kidschanger
 Name: iOS Kids Changer
@@ -1203,13 +1203,13 @@ Pre-Depends: firmware (>= 13.4), ellekit, me.jjolano.fmwk.hookkit, me.jjolano.hk
 Depends: zip, unzip, gzip, rsync, sqlite3, openssh, openssl, ldid, com.opa334.libsandy, cm90.crossoveripc, com.simpzan.jetsamctl, preferenceloader, ws.hbang.common
 Conflicts: firmware (<< 13.4), com.kidsautopro.kidssupport, com.kidsautopro.kidsaction, com.kidsautopro.kidsautosetting, com.kids.utilities
 Architecture: iphoneos-arm64
-Version: 4.1.7+rootless-crack
+Version: 4.1.7+rootless-crack3
 Installed-Size: 1844
-Filename: https://cuongnt140494.github.io/kids-crack/debs/iOSKidsChanger_4.1.7+rootless_iphoneos-arm64_v2.deb
-Size: 1279492
-MD5sum: d887f21436bc20cd916b2115acecb2f3
-SHA1: 27d9197467327b0013d0a6194bfb966ffd32b836
-SHA256: 9c5c5c69a05c939db6dc03f3ee0e143f5dbe26b5ce3849a7cd34f35821120a09
+Filename: https://cuongnt140494.github.io/kids-crack/debs/iOSKidsChanger_4.1.7+rootless_iphoneos-arm64_v3.deb
+Size: 1279490
+MD5sum: af89e758144e88838f57308fea5195d8
+SHA1: e168dfb872254238635d508f6561a4fe7c160454
+SHA256: 7968b670f6bff1b8a011e02c0a395ee921f589b460126dea52bd2a1a78639028
 
 Package: me.jjolano.fmwk.hookkit
 Name: HookKit Framework
