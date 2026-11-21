@@ -5,7 +5,7 @@ Maintainer: @CrazyMind90
 Installed-Size: 352
 Depends: mobilesubstrate
 Conflicts: com.rpetrich.rocketbootstrap
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/cm90.crossoveripc_1.1.1_iphoneos-arm.deb
+Filename: debs/cm90.crossoveripc_1.1.1_iphoneos-arm.deb
 Size: 12524
 MD5sum: 3d90db27778378e9fbffb7d236e8be0c
 SHA1: b9c28c52de10069f89967343178bf39aa00b0f86
@@ -22,7 +22,7 @@ Maintainer: @CrazyMind90
 Installed-Size: 304
 Depends: mobilesubstrate
 Conflicts: com.rpetrich.rocketbootstrap
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/cm90.crossoveripc_1.1.1_iphoneos-arm64.deb
+Filename: debs/cm90.crossoveripc_1.1.1_iphoneos-arm64.deb
 Size: 9610
 MD5sum: ceead90451d67865cdd03e9721428029
 SHA1: 4b466d54692f4dde0832c88e16ee3bc617ed9c7d
@@ -38,7 +38,7 @@ Architecture: iphoneos-arm64
 Maintainer: @CrazyMind90
 Installed-Size: 304
 Depends: mobilesubstrate
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/cm90.crossoveripc_1.3.1-1~rootless_iphoneos-arm64.deb
+Filename: debs/cm90.crossoveripc_1.3.1-1~rootless_iphoneos-arm64.deb
 Size: 9528
 MD5sum: dabad432ec3d7a322f759cf596d89bfb
 SHA1: 37ae9c84add0248cbc7db64261aec6b5349961c0
@@ -54,7 +54,7 @@ Architecture: iphoneos-arm64e
 Maintainer: @CrazyMind90 - Mod by KidsDev91
 Installed-Size: 304
 Depends: mobilesubstrate
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/cm90.crossoveripc_1.3.2+roothide_iphoneos-arm64e.deb
+Filename: debs/cm90.crossoveripc_1.3.2+roothide_iphoneos-arm64e.deb
 Size: 9838
 MD5sum: 5a5146f3b71aea4986b000560038579e
 SHA1: 0a73c46fa978aaf5757f1d86f50e26583108eedd
@@ -75,7 +75,7 @@ Conflicts: com.ex.libsubstitute, org.coolstar.tweakinject, science.xnu.substitut
 Breaks: com.saurik.substrate.safemode (<<0.9.6004)
 Replaces: com.ex.libsubstitute, org.coolstar.tweakinject, mobilesubstrate
 Provides: com.ex.libsubstitute, mobilesubstrate (= 0.9.7033+dummy)
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/com.ex.substitute_2.3.1.deb
+Filename: debs/com.ex.substitute_2.3.1.deb
 Size: 7442088
 MD5sum: dce90a30e8b20198762d81c5872ad1b3
 SHA1: 0f8c9ef6db614eb7f82caf7ff2b06cabf0233232
@@ -92,7 +92,7 @@ Architecture: iphoneos-arm64e
 Maintainer: hihi
 Installed-Size: 464
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/com.hihi.fakesim_1.7.16_iphoneos-arm64e.deb
+Filename: debs/com.hihi.fakesim_1.7.16_iphoneos-arm64e.deb
 Size: 50836
 MD5sum: 30025d05cfbf82c16b09ea5fa883fc32
 SHA1: 4da98232ce56f96a16c55a3ec609eaca76e3072f
@@ -108,7 +108,7 @@ Architecture: iphoneos-arm64
 Maintainer: hihi
 Installed-Size: 464
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/com.hihi.fakesim_1.7.16_iphoneos-arm64.deb
+Filename: debs/com.hihi.fakesim_1.7.16_iphoneos-arm64.deb
 Size: 50974
 MD5sum: 3b5633900f3ca938a7933252c9eabbfc
 SHA1: 7cb0ac0070f783fa3d518517f39d0f66d24f4b8a
@@ -124,7 +124,7 @@ Architecture: iphoneos-arm
 Maintainer: hihi
 Installed-Size: 464
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/com.hihi.fakesim_1.7.16_iphoneos-arm.deb
+Filename: debs/com.hihi.fakesim_1.7.16_iphoneos-arm.deb
 Size: 50870
 MD5sum: e7a5ae7ed4fb11fc4200d4f3ee4ca7cd
 SHA1: 7cc6243be630b9d0764e6f3a61cacf1ef480b4d2
@@ -140,7 +140,7 @@ Architecture: iphoneos-arm64
 Maintainer: hihi
 Installed-Size: 464
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/com.hihi.fakesim_1.7.17_iphoneos-arm64.deb
+Filename: debs/com.hihi.fakesim_1.7.17_iphoneos-arm64.deb
 Size: 53762
 MD5sum: 9db180d69ec2f68691e64ce810d08c63
 SHA1: 3e7ee39ab717a8b0439a498a222b947d3377c8d6
@@ -156,7 +156,7 @@ Architecture: iphoneos-arm64e
 Maintainer: hihi
 Installed-Size: 464
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/com.hihi.fakesim_1.7.17_iphoneos-arm64e.deb
+Filename: debs/com.hihi.fakesim_1.7.17_iphoneos-arm64e.deb
 Size: 53746
 MD5sum: a9659d73dba11f305f2a05593fccbd26
 SHA1: 1ff2ab700082ee15a7bd9fe2d40a36516fe76c51
@@ -172,7 +172,7 @@ Architecture: iphoneos-arm
 Maintainer: hihi
 Installed-Size: 424
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/com.hihi.fakesim_1.7.17_iphoneos-arm.deb
+Filename: debs/com.hihi.fakesim_1.7.17_iphoneos-arm.deb
 Size: 53658
 MD5sum: 672b1b8fa69cec8408bffa427fa544c1
 SHA1: 3e8e56d95f9c32fb83c03094235beaeb95118014
@@ -188,7 +188,7 @@ Architecture: iphoneos-arm
 Maintainer: hihi
 Installed-Size: 464
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/com.hihi.fakesim_1.7.18_iphoneos-arm.deb
+Filename: debs/com.hihi.fakesim_1.7.18_iphoneos-arm.deb
 Size: 54682
 MD5sum: 090dcc143486c8abfc2684cede1192f8
 SHA1: 2d4affb222d91b40fb3c3a8d3ce0b802c894a30e
@@ -204,7 +204,7 @@ Architecture: iphoneos-arm64e
 Maintainer: hihi
 Installed-Size: 464
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/com.hihi.fakesim_1.7.18_iphoneos-arm64e.deb
+Filename: debs/com.hihi.fakesim_1.7.18_iphoneos-arm64e.deb
 Size: 54756
 MD5sum: 29bb7512543d378f936bb64c81513063
 SHA1: 0a6bec77eaaf0b7972a353f06fa5449acd4ebd3c
@@ -220,7 +220,7 @@ Architecture: iphoneos-arm64
 Maintainer: hihi
 Installed-Size: 464
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/com.hihi.fakesim_1.7.18_iphoneos-arm64.deb
+Filename: debs/com.hihi.fakesim_1.7.18_iphoneos-arm64.deb
 Size: 54856
 MD5sum: 54f2b2e4fb02d6afc7bac55b0299fdcc
 SHA1: aa9c49783fe0d91b58083c3554e1ec613073d8b1
@@ -236,7 +236,7 @@ Architecture: iphoneos-arm64
 Maintainer: hihi
 Installed-Size: 496
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/com.hihi.fakesim_1.7.19_iphoneos-arm64.deb
+Filename: debs/com.hihi.fakesim_1.7.19_iphoneos-arm64.deb
 Size: 59522
 MD5sum: 5dcf4db0158990dbb13b15532bbe06f4
 SHA1: a274c91c2b395984463157dae9fc214f882be4f4
@@ -252,7 +252,7 @@ Architecture: iphoneos-arm64e
 Maintainer: hihi
 Installed-Size: 496
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/com.hihi.fakesim_1.7.19_iphoneos-arm64e.deb
+Filename: debs/com.hihi.fakesim_1.7.19_iphoneos-arm64e.deb
 Size: 59410
 MD5sum: ebad938f4f46cf5eadd6fc3179c4720c
 SHA1: 81b7bcd50ca3741dd3ffcd910d5c82443a9ff5f4
@@ -268,7 +268,7 @@ Architecture: iphoneos-arm
 Maintainer: hihi
 Installed-Size: 496
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/com.hihi.fakesim_1.7.19_iphoneos-arm.deb
+Filename: debs/com.hihi.fakesim_1.7.19_iphoneos-arm.deb
 Size: 59550
 MD5sum: 5adb8fcb2fe232b3f43afb1a9cafedd0
 SHA1: 92d468a065cee04c100488ac03a8e469a9617bd9
@@ -284,7 +284,7 @@ Architecture: iphoneos-arm
 Maintainer: hihi
 Installed-Size: 528
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/com.hihi.fakesim_1.7.20_iphoneos-arm.deb
+Filename: debs/com.hihi.fakesim_1.7.20_iphoneos-arm.deb
 Size: 61062
 MD5sum: 3a6487f9e6b5c5b1991e7e610bb6433f
 SHA1: 0e28af0b8459f2b5029d49b9ddc4a98cb324818f
@@ -300,7 +300,7 @@ Architecture: iphoneos-arm64e
 Maintainer: hihi
 Installed-Size: 528
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/com.hihi.fakesim_1.7.20_iphoneos-arm64e.deb
+Filename: debs/com.hihi.fakesim_1.7.20_iphoneos-arm64e.deb
 Size: 60964
 MD5sum: b89d527f552c235f65ee548cc147ec2b
 SHA1: ca1f9118da242b0d8780f4b4537e5aabd71d5a58
@@ -316,7 +316,7 @@ Architecture: iphoneos-arm64
 Maintainer: hihi
 Installed-Size: 528
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/com.hihi.fakesim_1.7.20_iphoneos-arm64.deb
+Filename: debs/com.hihi.fakesim_1.7.20_iphoneos-arm64.deb
 Size: 61098
 MD5sum: fe6a0277e0ed030fab487e02de2acb7a
 SHA1: 0662058c3de0f12e99f0e5dcaa52fe5d1a19473e
@@ -332,7 +332,7 @@ Architecture: iphoneos-arm64
 Maintainer: hihi
 Installed-Size: 496
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/com.hihi.fakesim_1.7.21_iphoneos-arm64.deb
+Filename: debs/com.hihi.fakesim_1.7.21_iphoneos-arm64.deb
 Size: 60724
 MD5sum: 12cd60b10006ff957ed6604cc2e5fc5e
 SHA1: ced13efa7f6b9629b9f416b0b5e5de7832518370
@@ -348,7 +348,7 @@ Architecture: iphoneos-arm64e
 Maintainer: hihi
 Installed-Size: 496
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/com.hihi.fakesim_1.7.21_iphoneos-arm64e.deb
+Filename: debs/com.hihi.fakesim_1.7.21_iphoneos-arm64e.deb
 Size: 60698
 MD5sum: 9917e3a37a5e0099735e8d042e5c8085
 SHA1: a52880ff5b30faf71439687ea2672d3a3641a81d
@@ -364,7 +364,7 @@ Architecture: iphoneos-arm
 Maintainer: hihi
 Installed-Size: 496
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/com.hihi.fakesim_1.7.21_iphoneos-arm.deb
+Filename: debs/com.hihi.fakesim_1.7.21_iphoneos-arm.deb
 Size: 60682
 MD5sum: 782576afcff9e400cfe48a5146952037
 SHA1: 4e9e1d0f0cd5e6fc10f706eeb84ce63d374dbe98
@@ -380,7 +380,7 @@ Architecture: iphoneos-arm64e
 Maintainer: hihi
 Installed-Size: 564
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/com.hihi.fakesim_1.7.22_iphoneos-arm64e.deb
+Filename: debs/com.hihi.fakesim_1.7.22_iphoneos-arm64e.deb
 Size: 71206
 MD5sum: 95f945f27acb3d05af10615cb5bea10a
 SHA1: db6a7a1cf469ac79ae05a20f96d06ca69b4f8990
@@ -396,7 +396,7 @@ Architecture: iphoneos-arm64
 Maintainer: hihi
 Installed-Size: 564
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/com.hihi.fakesim_1.7.22_iphoneos-arm64.deb
+Filename: debs/com.hihi.fakesim_1.7.22_iphoneos-arm64.deb
 Size: 71254
 MD5sum: be8227f56ed3a91b9dd5eb8bc2a52be6
 SHA1: ca6692b324a63f7fe7f9e628eec5593607bef3f4
@@ -412,7 +412,7 @@ Architecture: iphoneos-arm
 Maintainer: hihi
 Installed-Size: 564
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/com.hihi.fakesim_1.7.22_iphoneos-arm.deb
+Filename: debs/com.hihi.fakesim_1.7.22_iphoneos-arm.deb
 Size: 71118
 MD5sum: 23c02af85043c8bf8a0a691d50698d1e
 SHA1: 6d6903ba7c7a4c8666a65545744ae5a8a0fca1d9
@@ -428,7 +428,7 @@ Architecture: iphoneos-arm64e
 Maintainer: hihi
 Installed-Size: 564
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/com.hihi.fakesim_1.7.23_iphoneos-arm64e.deb
+Filename: debs/com.hihi.fakesim_1.7.23_iphoneos-arm64e.deb
 Size: 71250
 MD5sum: 030ca8e6cfff8198479db7f5a25307b3
 SHA1: 987aacebd0521f724f6dcef82c3510265ad22cea
@@ -444,7 +444,7 @@ Architecture: iphoneos-arm64
 Maintainer: hihi
 Installed-Size: 564
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/com.hihi.fakesim_1.7.23_iphoneos-arm64.deb
+Filename: debs/com.hihi.fakesim_1.7.23_iphoneos-arm64.deb
 Size: 71268
 MD5sum: d7af1d4048b140ddab6a8868d23fad75
 SHA1: da42ede96ab16ee04ffc9de35de9b22ae2c12150
@@ -460,7 +460,7 @@ Architecture: iphoneos-arm
 Maintainer: hihi
 Installed-Size: 564
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/com.hihi.fakesim_1.7.23_iphoneos-arm.deb
+Filename: debs/com.hihi.fakesim_1.7.23_iphoneos-arm.deb
 Size: 71266
 MD5sum: 99f80b7ecd4dd5a9a7bd9ca63cb9b749
 SHA1: 476e676c02434da2e5966d8da32273c6bcc45047
@@ -476,7 +476,7 @@ Architecture: iphoneos-arm64
 Maintainer: hihi
 Installed-Size: 564
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/com.hihi.fakesim_1.7.24_iphoneos-arm64.deb
+Filename: debs/com.hihi.fakesim_1.7.24_iphoneos-arm64.deb
 Size: 73006
 MD5sum: bc06659baefe7bcc0cfbdb1cf85028e4
 SHA1: 17d07f676f392844b8b99d652b43cbcb35b93299
@@ -492,7 +492,7 @@ Architecture: iphoneos-arm
 Maintainer: hihi
 Installed-Size: 564
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/com.hihi.fakesim_1.7.24_iphoneos-arm.deb
+Filename: debs/com.hihi.fakesim_1.7.24_iphoneos-arm.deb
 Size: 73052
 MD5sum: ffbfab60e68aa1f79aec3bbe00402452
 SHA1: b16892fc68fa5454f2179b54bf92ab54d7432f5f
@@ -508,7 +508,7 @@ Architecture: iphoneos-arm64e
 Maintainer: hihi
 Installed-Size: 508
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/com.hihi.fakesim_1.7.24_iphoneos-arm64e.deb
+Filename: debs/com.hihi.fakesim_1.7.24_iphoneos-arm64e.deb
 Size: 72938
 MD5sum: cb0ed1c5af95ad738f2370c885c8a23f
 SHA1: 6b16875cc143cc9ba39940e20d22643e6fe6247e
@@ -524,7 +524,7 @@ Architecture: iphoneos-arm
 Maintainer: hihi
 Installed-Size: 564
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/com.hihi.fakesim_1.7.25_iphoneos-arm.deb
+Filename: debs/com.hihi.fakesim_1.7.25_iphoneos-arm.deb
 Size: 72760
 MD5sum: 797e4aa7f58d9dc65bf0faa3d621ec27
 SHA1: dd116ec83708b91fa356c8266287baae2a4fb55e
@@ -540,7 +540,7 @@ Architecture: iphoneos-arm64e
 Maintainer: hihi
 Installed-Size: 564
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/com.hihi.fakesim_1.7.25_iphoneos-arm64e.deb
+Filename: debs/com.hihi.fakesim_1.7.25_iphoneos-arm64e.deb
 Size: 72724
 MD5sum: 62acaad0557408c45f31dcc59d8949bc
 SHA1: 25ab6c48ff36ace3e2e2cea0150e1cda2a4e550f
@@ -556,7 +556,7 @@ Architecture: iphoneos-arm64
 Maintainer: hihi
 Installed-Size: 564
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/com.hihi.fakesim_1.7.25_iphoneos-arm64.deb
+Filename: debs/com.hihi.fakesim_1.7.25_iphoneos-arm64.deb
 Size: 72802
 MD5sum: 90f36e03656d696c0a23cd96ce2c077b
 SHA1: ea2462f0370b75aad775a6d60452b355b164b1ba
@@ -572,7 +572,7 @@ Architecture: iphoneos-arm64e
 Maintainer: hihi
 Installed-Size: 572
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/com.hihi.fakesim_1.7.26_iphoneos-arm64e.deb
+Filename: debs/com.hihi.fakesim_1.7.26_iphoneos-arm64e.deb
 Size: 74130
 MD5sum: 8e09cdaed9507fa9d11338b0293d7749
 SHA1: 87a858a117d403b8c015320f0a72ba08cbb35a3d
@@ -588,7 +588,7 @@ Architecture: iphoneos-arm
 Maintainer: hihi
 Installed-Size: 572
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/com.hihi.fakesim_1.7.26_iphoneos-arm.deb
+Filename: debs/com.hihi.fakesim_1.7.26_iphoneos-arm.deb
 Size: 74168
 MD5sum: 5afbb10755db06ccb32bfef1236ada1e
 SHA1: ec2a78b24244c529ae119363ba8e22d953df1adc
@@ -604,7 +604,7 @@ Architecture: iphoneos-arm64
 Maintainer: hihi
 Installed-Size: 572
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/com.hihi.fakesim_1.7.26_iphoneos-arm64.deb
+Filename: debs/com.hihi.fakesim_1.7.26_iphoneos-arm64.deb
 Size: 74246
 MD5sum: 47c0c2d535296d9ee333f18c787472ed
 SHA1: cb46ffe6311127cd0485d6a94f52650860380090
@@ -620,7 +620,7 @@ Architecture: iphoneos-arm64e
 Maintainer: hplead
 Installed-Size: 204
 Depends: mobilesubstrate
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/com.hplead.hookkids_1.1.0_iphoneos-arm64e.deb
+Filename: debs/com.hplead.hookkids_1.1.0_iphoneos-arm64e.deb
 Size: 12996
 MD5sum: 3dea529607c5545efbc2279a5383e89f
 SHA1: 99a78a2e77d46aa07041a345edece6392ccfe37a
@@ -636,7 +636,7 @@ Architecture: iphoneos-arm
 Maintainer: hplead
 Installed-Size: 204
 Depends: mobilesubstrate
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/com.hplead.hookkids_1.1.0_iphoneos-arm.deb
+Filename: debs/com.hplead.hookkids_1.1.0_iphoneos-arm.deb
 Size: 12964
 MD5sum: cff89bebaa9ab86eda751dd4e84f2e95
 SHA1: 2b6af34c74aa57234e1e2e8e16568a9cab5507d2
@@ -652,7 +652,7 @@ Architecture: iphoneos-arm64
 Maintainer: hplead
 Installed-Size: 204
 Depends: mobilesubstrate
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/com.hplead.hookkids_1.1.0_iphoneos-arm64.deb
+Filename: debs/com.hplead.hookkids_1.1.0_iphoneos-arm64.deb
 Size: 13048
 MD5sum: f7fa2f172380cac47ea5b3d890dd678e
 SHA1: 498da1214d78632cdd12308f7f280c71f2a757fb
@@ -668,7 +668,7 @@ Architecture: iphoneos-arm64e
 Maintainer: hplead
 Installed-Size: 204
 Depends: mobilesubstrate
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/com.hplead.hookotherdylib_1.1.0_iphoneos-arm64e.deb
+Filename: debs/com.hplead.hookotherdylib_1.1.0_iphoneos-arm64e.deb
 Size: 5300
 MD5sum: ac19420fcf09d64e3e2ad6aa3cb4f757
 SHA1: 7dec3be3fc4b06c1b36297a6f586c416fe9be9e7
@@ -684,7 +684,7 @@ Architecture: iphoneos-arm
 Maintainer: hplead
 Installed-Size: 204
 Depends: mobilesubstrate
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/com.hplead.hookotherdylib_1.1.0_iphoneos-arm.deb
+Filename: debs/com.hplead.hookotherdylib_1.1.0_iphoneos-arm.deb
 Size: 5300
 MD5sum: b023c378bca591a19b7dd564d7017241
 SHA1: 53004193393f8f2f48af634f781ba434339049bb
@@ -700,7 +700,7 @@ Architecture: iphoneos-arm64
 Maintainer: hplead
 Installed-Size: 204
 Depends: mobilesubstrate
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/com.hplead.hookotherdylib_1.1.0_iphoneos-arm64.deb
+Filename: debs/com.hplead.hookotherdylib_1.1.0_iphoneos-arm64.deb
 Size: 5394
 MD5sum: 5786888d31c98c4b09ad34e6218b2fff
 SHA1: 9c396b264786862f3898a3d1f712febe269dc4e1
@@ -716,7 +716,7 @@ Architecture: iphoneos-arm64
 Maintainer: hplead
 Installed-Size: 204
 Depends: mobilesubstrate
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/com.hplead.hookotherdylib_1.2.0_iphoneos-arm64.deb
+Filename: debs/com.hplead.hookotherdylib_1.2.0_iphoneos-arm64.deb
 Size: 5488
 MD5sum: d5f21572162110f539a4c11dfe90aba2
 SHA1: e55f8217dee557b8cf50d1181ae57c2f283d776c
@@ -732,7 +732,7 @@ Architecture: iphoneos-arm
 Maintainer: hplead
 Installed-Size: 204
 Depends: mobilesubstrate
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/com.hplead.hookotherdylib_1.2.0_iphoneos-arm.deb
+Filename: debs/com.hplead.hookotherdylib_1.2.0_iphoneos-arm.deb
 Size: 5408
 MD5sum: 1a700e186fb8b28aa90a9af09bcd6c9b
 SHA1: fbf03cae00156c9bbdfc207ffef111619d448498
@@ -748,7 +748,7 @@ Architecture: iphoneos-arm64e
 Maintainer: hplead
 Installed-Size: 204
 Depends: mobilesubstrate
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/com.hplead.hookotherdylib_1.2.0_iphoneos-arm64e.deb
+Filename: debs/com.hplead.hookotherdylib_1.2.0_iphoneos-arm64e.deb
 Size: 5424
 MD5sum: 862fd944d88958b21cb9075e2424baaf
 SHA1: 91ebc4e17ff2adaeb4d07cdd140a41c3e1bdd77a
@@ -766,11 +766,11 @@ Installed-Size: 1824
 Pre-Depends: firmware (>= 13.4), ellekit, me.jjolano.fmwk.hookkit, me.jjolano.hkmodule.ellekit
 Depends: zip, unzip, gzip, rsync, sqlite3, openssh, openssl, ldid, com.opa334.libsandy, cm90.crossoveripc, com.simpzan.jetsamctl, preferenceloader, ws.hbang.common
 Conflicts: firmware (<< 13.4), com.kidsautopro.kidssupport, com.kidsautopro.kidsaction, com.kidsautopro.kidsautosetting, com.kids.utilities
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/com.iosapp.kidschanger_4.1.5+rootfull_iphoneos-arm_v12.deb
-Size: 569974
-MD5sum: e9623585d0d0aaf43826ac7cf1c41edb
-SHA1: 8bacc3ac38c6dc450dd31e4ec547a89a6c1abc8c
-SHA256: 429d724f95fdef15a8bb9dd4a9d19760b9ca7f321e8986ebac478a61e6b1fad0
+Filename: debs/com.iosapp.kidschanger_4.1.5+rootfull_iphoneos-arm_v12.deb
+Size: 569968
+MD5sum: 19dc1d11d9b7aff90ee7cbb247011b22
+SHA1: 2eb15a0b1b168468d5a232f6e517df1ea1c864c6
+SHA256: 78afc4aad300022234f248ac373ec8bcf1e11444a1debdcc7e51987ce55ed74e
 Section: Utilities
 Description: [CRACK] no login / no device activation
 Tag: role::developer compatible::ios13, compatible::ios14, compatible::ios15, compatible::ios16, compatible::ios17, compatible::ios18, compatible::ios26
@@ -785,11 +785,11 @@ Installed-Size: 1824
 Pre-Depends: firmware (>= 13.4), ellekit, me.jjolano.fmwk.hookkit, me.jjolano.hkmodule.ellekit
 Depends: zip, unzip, gzip, rsync, sqlite3, openssh, openssl, ldid, com.opa334.libsandy, cm90.crossoveripc, com.simpzan.jetsamctl, preferenceloader, ws.hbang.common
 Conflicts: firmware (<< 13.4), com.kidsautopro.kidssupport, com.kidsautopro.kidsaction, com.kidsautopro.kidsautosetting, com.kids.utilities
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/com.iosapp.kidschanger_4.1.5+roothide_iphoneos-arm64e_v12.deb
-Size: 570720
-MD5sum: 801a8a737330161613fd97c94fe75b6d
-SHA1: 6c5cfe0ed3bfa9a54dbefbf85f242c595108bbc6
-SHA256: dbca925f2f94bdc61be6916929295d72a0729a35e35bc01d17b01a34a5869af0
+Filename: debs/com.iosapp.kidschanger_4.1.5+roothide_iphoneos-arm64e_v12.deb
+Size: 570712
+MD5sum: 1250dfc38328894c16cf51a52c5b4bb8
+SHA1: c40322759ef5dae2f421272438d6badcf65f1f4a
+SHA256: f7fa8d07ee20647df74a45b60a1526754858a9ec6faabb4325c9cc4f1c70a3b3
 Section: Utilities
 Description: [CRACK] no login / no device activation
 Tag: role::developer compatible::ios13, compatible::ios14, compatible::ios15, compatible::ios16, compatible::ios17, compatible::ios18, compatible::ios26
@@ -804,11 +804,11 @@ Installed-Size: 1824
 Pre-Depends: firmware (>= 13.4), ellekit, me.jjolano.fmwk.hookkit, me.jjolano.hkmodule.ellekit
 Depends: zip, unzip, gzip, rsync, sqlite3, openssh, openssl, ldid, com.opa334.libsandy, cm90.crossoveripc, com.simpzan.jetsamctl, preferenceloader, ws.hbang.common
 Conflicts: firmware (<< 13.4), com.kidsautopro.kidssupport, com.kidsautopro.kidsaction, com.kidsautopro.kidsautosetting, com.kids.utilities
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/com.iosapp.kidschanger_4.1.5+rootless_iphoneos-arm64_v12.deb
-Size: 573818
-MD5sum: 02b732220b620202823c7a71924fe7a5
-SHA1: 78cac5e0efb5d0a58b45923a0d30cf65e93e40b1
-SHA256: 416ccc2003027d8737ec0fe37ce03c21a4e83b8ffe95a97539428e4f5d607b59
+Filename: debs/com.iosapp.kidschanger_4.1.5+rootless_iphoneos-arm64_v12.deb
+Size: 573810
+MD5sum: aae589ef95d9fcf3b910b018af6bad41
+SHA1: b73579662a6c9c1261291b9920f438867b523df7
+SHA256: 45cdc51fe111acc5f37aef3acd7ada7753c88c5d68c8b2da76aea047ec5b2060
 Section: Utilities
 Description: [CRACK] no login / no device activation
 Tag: role::developer compatible::ios13, compatible::ios14, compatible::ios15, compatible::ios16, compatible::ios17, compatible::ios18, compatible::ios26
@@ -823,11 +823,11 @@ Installed-Size: 1844
 Pre-Depends: firmware (>= 13.4), ellekit, me.jjolano.fmwk.hookkit, me.jjolano.hkmodule.ellekit
 Depends: zip, unzip, gzip, rsync, sqlite3, openssh, openssl, ldid, com.opa334.libsandy, cm90.crossoveripc, com.simpzan.jetsamctl, preferenceloader, ws.hbang.common
 Conflicts: firmware (<< 13.4), com.kidsautopro.kidssupport, com.kidsautopro.kidsaction, com.kidsautopro.kidsautosetting, com.kids.utilities
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/iOSKidsChanger_4.1.7+roothide_iphoneos-arm64e_v12.deb
-Size: 583060
-MD5sum: 2d96cd32e371d370af0f1cda0ed17c6b
-SHA1: 189d549e8f46c9e600f258562bebdf320fbd392f
-SHA256: 4576e02538e131017e80aaf087c15a556fc735792afff76b227ec2a4fdde9276
+Filename: debs/iOSKidsChanger_4.1.7+roothide_iphoneos-arm64e_v12.deb
+Size: 583058
+MD5sum: 3b6be78dd3dd7bdb192fea77fde07cc8
+SHA1: 617c8d928b179773a94d87574a0178dde38c70a2
+SHA256: bddd18bc11dfd125313b402d438306f0f49ba79c86d56aeb963245d6487cc8e2
 Section: Utilities
 Description: [CRACK] no login / no device activation
 Tag: role::developer compatible::ios13, compatible::ios14, compatible::ios15, compatible::ios16, compatible::ios17, compatible::ios18, compatible::ios26
@@ -842,11 +842,11 @@ Installed-Size: 1844
 Pre-Depends: firmware (>= 13.4), ellekit, me.jjolano.fmwk.hookkit, me.jjolano.hkmodule.ellekit
 Depends: zip, unzip, gzip, rsync, sqlite3, openssh, openssl, ldid, com.opa334.libsandy, cm90.crossoveripc, com.simpzan.jetsamctl, preferenceloader, ws.hbang.common
 Conflicts: firmware (<< 13.4), com.kidsautopro.kidssupport, com.kidsautopro.kidsaction, com.kidsautopro.kidsautosetting, com.kids.utilities
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/iOSKidsChanger_4.1.7+rootless_iphoneos-arm64_v12.deb
-Size: 586136
-MD5sum: 92a0e701b39b172f643db463ca833ea5
-SHA1: 87d6a1a2e5067abd6798f00b1101933d532d72c8
-SHA256: 639b1f23c170ff7c158c4e9b7dae97e10a34779f94474ad1703cbd16223f25e2
+Filename: debs/iOSKidsChanger_4.1.7+rootless_iphoneos-arm64_v12.deb
+Size: 586144
+MD5sum: 358095469cc5e200602ea6038b83b0db
+SHA1: b9e7407585fb90ec997405ee0c05e55af11403ab
+SHA256: 14d7a08c160129f456c66673aa2473eec30e34e3b3f4b317ac83679e95e4ffc9
 Section: Utilities
 Description: [CRACK] no login / no device activation
 Tag: role::developer compatible::ios13, compatible::ios14, compatible::ios15, compatible::ios16, compatible::ios17, compatible::ios18, compatible::ios26
@@ -861,7 +861,7 @@ Installed-Size: 2864
 Pre-Depends: firmware (>= 12.0) | firmware (<< 15.0), com.ex.substitute, com.saurik.substrate.safemode (>= 0.9.6005), me.jjolano.fmwk.hookkit (<=1.0.16), me.jjolano.hkmodule.substitute (<=1.0.11)
 Depends: zip, unzip, gzip, rsync, socat, sqlite3, openssh, openssl, ldid, com.opa334.libsandy, org.coolstar.libhooker (>= 0.0.1.1), com.rpetrich.rocketbootstrap, preferenceloader, ws.hbang.common
 Conflicts: firmware (>= 15.0), com.kidsautopro.kidssupport, com.kidsautopro.kidsaction, com.kidsautopro.kidsautosetting
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/com.kids.utilities_25.06.27~checkra1n_iphoneos-arm.deb
+Filename: debs/com.kids.utilities_25.06.27~checkra1n_iphoneos-arm.deb
 Size: 564116
 MD5sum: 20aa2ba3f7b08100a2059a82a32870a7
 SHA1: bc4400bb42df6d472cd23c4cb8726cc24a083e6b
@@ -881,7 +881,7 @@ Installed-Size: 2864
 Pre-Depends: firmware (>= 15.0), firmware (<< 16.0), ellekit | com.ex.substitute, me.jjolano.fmwk.hookkit, me.jjolano.hkmodule.ellekit | me.jjolano.hkmodule.substitute
 Depends: zip, unzip, gzip, rsync, socat, sqlite3, openssh, openssl, ldid, com.opa334.libsandy, cm90.crossoveripc | com.rpetrich.rocketbootstrap, mterminal (>= 1.5-2), preferenceloader, ws.hbang.common
 Conflicts: firmware (<< 15.0), firmware (>= 16.0), com.kidsautopro.kidssupport, com.kidsautopro.kidsaction, com.kidsautopro.kidsautosetting
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/com.kids.utilities_25.07.22-2~rootfull_iphoneos-arm.deb
+Filename: debs/com.kids.utilities_25.07.22-2~rootfull_iphoneos-arm.deb
 Size: 568572
 MD5sum: 55bdade7a2e99232ff5766d4d1a2f86d
 SHA1: fad8a0686c6df760229a3d7360eac84121b569d4
@@ -901,7 +901,7 @@ Installed-Size: 2864
 Pre-Depends: firmware (>= 14.0), firmware (<< 15.0), ellekit, me.jjolano.fmwk.hookkit, me.jjolano.hkmodule.ellekit
 Depends: zip, unzip, gzip, rsync, sqlite3, openssh, openssl, ldid, com.opa334.libsandy, cm90.crossoveripc, com.simpzan.jetsamctl, preferenceloader, ws.hbang.common
 Conflicts: firmware (<< 14.0), firmware (>> 15.0), com.kidsautopro.kidssupport, com.kidsautopro.kidsaction, com.kidsautopro.kidsautosetting
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/com.kids.utilities_25.12.1+rootfull_ios14.deb
+Filename: debs/com.kids.utilities_25.12.1+rootfull_ios14.deb
 Size: 568210
 MD5sum: bff8a5869c9959810960a9d4b4ab740a
 SHA1: 33b62507b95a911ff2bc55a0083ba4f02bb7334e
@@ -921,7 +921,7 @@ Installed-Size: 2864
 Pre-Depends: firmware (>= 15.0), ellekit, me.jjolano.fmwk.hookkit, me.jjolano.hkmodule.ellekit
 Depends: zip, unzip, gzip, rsync, sqlite3, openssh, openssl, ldid, com.opa334.libsandy, cm90.crossoveripc, com.simpzan.jetsamctl, preferenceloader, ws.hbang.common
 Conflicts: firmware (<< 15.0), com.kidsautopro.kidssupport, com.kidsautopro.kidsaction, com.kidsautopro.kidsautosetting
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/com.kids.utilities_25.12.2+rootfull_ios15.deb
+Filename: debs/com.kids.utilities_25.12.2+rootfull_ios15.deb
 Size: 567700
 MD5sum: d7c95521aebe5ce93af5c9d75ee0d8d1
 SHA1: 441b7c7a7da0b32aaddea70da5ec356765f8ae1f
@@ -938,11 +938,11 @@ Version: 26.09.09-10+rootfull-crack12
 Architecture: iphoneos-arm
 Maintainer: Dev by Cường Trần
 Installed-Size: 12260
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/Public_KidsAutov4_26.09.09-10+rootfull_iphoneos-arm_v12.deb
-Size: 4046900
-MD5sum: 289de368e5587fcd726f41d80e002444
-SHA1: 432cee0109bc1b464e1386c3cae566f76aa0d2a6
-SHA256: e51aee133f3e07478a1841fdcd260d8e7cfbcf02bcc68c372c5118b5d13ee676
+Filename: debs/Public_KidsAutov4_26.09.09-10+rootfull_iphoneos-arm_v12.deb
+Size: 4046988
+MD5sum: a489821690035bd773087a8e6886f7bc
+SHA1: 8b5aaa7816699efc84473b9c91c19deedfdf383f
+SHA256: adc133f03d95518098b07644e17a740347f17fb28e41fd120e58f87671542841
 Section: Tweaks
 Description: [CRACK] no login / no device activation
 Tag: role::hacker, purpose::extension, compatible::ios12, compatible::ios13, compatible::ios14, compatible::ios15, compatible::ios16
@@ -954,11 +954,11 @@ Version: 26.09.09-10+roothide-crack12
 Architecture: iphoneos-arm64e
 Maintainer: Dev by Cường Trần
 Installed-Size: 12240
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/Public_KidsAutov4_26.09.09-10+roothide_iphoneos-arm64e_v12.deb
-Size: 4052260
-MD5sum: 3732181dc4dab81cdcc557bba66a2f50
-SHA1: d7d99466a0ba67d4b1716689c08892ad19139545
-SHA256: 63c4033f6474b8c98be3301073ad1d5ca897fa1e1212449dfad995892e26aaaf
+Filename: debs/Public_KidsAutov4_26.09.09-10+roothide_iphoneos-arm64e_v12.deb
+Size: 4052338
+MD5sum: a79da93228c6234187cc51eddb6b30a3
+SHA1: 9dcdf7afe9415e55468c67c6cf9dc05b89b4ac9c
+SHA256: bd22e32362990adf0e7ab684a683f0ccf8babce51dbacb933ab07be1f4f6dd8d
 Section: Tweaks
 Description: [CRACK] no login / no device activation
 Tag: role::hacker, purpose::extension, compatible::ios12, compatible::ios13, compatible::ios14, compatible::ios15, compatible::ios16
@@ -970,11 +970,11 @@ Version: 26.09.09-10+rootless-crack12
 Architecture: iphoneos-arm64
 Maintainer: Dev by Cường Trần
 Installed-Size: 12296
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/Public_KidsAutov4_26.09.09-10+rootless_iphoneos-arm64_v12.deb
-Size: 4059038
-MD5sum: 5b934663496ddb929daa40ffd3614124
-SHA1: 76bebdb97879c18f85c2dfcd222f9ee12414f5b8
-SHA256: 6b89270cebaf3090ed1ede3888228119b81b0ef324c02732835d81c5b6eed643
+Filename: debs/Public_KidsAutov4_26.09.09-10+rootless_iphoneos-arm64_v12.deb
+Size: 4059128
+MD5sum: e1633da139ac2197ef6e0df940890aa0
+SHA1: 6266f639bfe8739b7a2f9e73cd405a29f04de926
+SHA256: a2ef0bba98912a7c0382b71f5e8483b762c7e81669cab0d5d7cc098dc84af93b
 Section: Tweaks
 Description: [CRACK] no login / no device activation
 Tag: role::hacker, purpose::extension, compatible::ios12, compatible::ios13, compatible::ios14, compatible::ios15, compatible::ios16
@@ -986,11 +986,11 @@ Version: 26.10.01-10+roothide-crack12
 Architecture: iphoneos-arm64e
 Maintainer: Dev by Cường Trần
 Installed-Size: 12360
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/PUBLIC_KidsAutov4_26.10.01-10+roothide_iphoneos-arm64e_v12.deb
-Size: 4135784
-MD5sum: 8b3293fc2c0055c24a88b29a8a961680
-SHA1: 98e6a6bb5586bb61e56daebdc1c6d55b154adf3b
-SHA256: 19e85a84f023f8062fcee096467b07df6bc5a4c023abbb66fce86db38cefc764
+Filename: debs/PUBLIC_KidsAutov4_26.10.01-10+roothide_iphoneos-arm64e_v12.deb
+Size: 4135860
+MD5sum: 0a9bf58352dba91a13025b24d3dda9ba
+SHA1: a6ecc7497610f61661184764e6c25ad4c325c4f8
+SHA256: 25f8e7f08dd1fe0aad632365275d7409d7816c5c78d6ace87b1d4a87b401ff9a
 Section: Tweaks
 Description: [CRACK] no login / no device activation
 Tag: role::hacker, purpose::extension, compatible::ios12, compatible::ios13, compatible::ios14, compatible::ios15, compatible::ios16, compatible::ios17, compatible::ios18, compatible::ios26
@@ -1002,11 +1002,11 @@ Version: 26.10.01-10+rootless-crack12
 Architecture: iphoneos-arm64
 Maintainer: Dev by Cường Trần
 Installed-Size: 12412
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/PUBLIC_KidsAutov4_26.10.01-10+rootless_iphoneos-arm64_v12.deb
-Size: 4142590
-MD5sum: 49cdf52e9936a35436b1ade28476830d
-SHA1: ad16168e8966c20e4e3df2d3bf6066297d2b3bd0
-SHA256: 2170f884e81c41867ac7186c5406b091315b6fe15a6ce6c1622db75b9c5f150b
+Filename: debs/PUBLIC_KidsAutov4_26.10.01-10+rootless_iphoneos-arm64_v12.deb
+Size: 4142670
+MD5sum: abebea94404a75b95e5391ad9e989b1f
+SHA1: da41fcc0362830ab0413f97fe60e14c9d8644b6e
+SHA256: e2d2ca6e1bf7fedde0bd5212804db52c4028734153b9959481965981e3f0de06
 Section: Tweaks
 Description: [CRACK] no login / no device activation
 Tag: role::hacker, purpose::extension, compatible::ios12, compatible::ios13, compatible::ios14, compatible::ios15, compatible::ios16, compatible::ios17, compatible::ios18, compatible::ios26
@@ -1019,7 +1019,7 @@ Architecture: iphoneos-arm
 Maintainer: Muirey03
 Installed-Size: 1384
 Depends: mobilesubstrate, com.muirey03.libmryipc, cy+cpu.arm64 | cy+cpu.arm64e, firmware (>= 9.0), ws.hbang.common (>= 1.11)
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/com.muirey03.cr4shed_4.3.0_iphoneos-arm.deb
+Filename: debs/com.muirey03.cr4shed_4.3.0_iphoneos-arm.deb
 Size: 149078
 MD5sum: 293df1ba4eea1c3787ff31c0114725a7
 SHA1: 30aa8b231bb41dca965c57218918d307babe375d
@@ -1036,7 +1036,7 @@ Maintainer: Muirey03
 Installed-Size: 448
 Depends: mobilesubstrate
 Conflicts: ws.hbang.stopcrashingpls (=1.0)
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/com.muirey03.libmryipc_2.0.1_iphoneos-arm.deb
+Filename: debs/com.muirey03.libmryipc_2.0.1_iphoneos-arm.deb
 Size: 28100
 MD5sum: d1a236bbabf96effd018161df06def8d
 SHA1: 9433e3c416a25e30431ead2fdf298bb0ea6df872
@@ -1053,7 +1053,7 @@ Architecture: iphoneos-arm64
 Maintainer: opa334
 Installed-Size: 340
 Depends: firmware (>=7.0)
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/com.opa334.altlist_1.0.11_iphoneos-arm64.deb
+Filename: debs/com.opa334.altlist_1.0.11_iphoneos-arm64.deb
 Size: 26884
 MD5sum: 1874e0da98f00417adab6dee7134f77c
 SHA1: 78b40438355e042de1ef082fcd9add718f7e1ec4
@@ -1071,7 +1071,7 @@ Architecture: iphoneos-arm
 Maintainer: opa334
 Installed-Size: 312
 Conflicts: ws.hbang.stopcrashingpls (<= 1.0.2)
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/com.opa334.libsandy_1.1.4_iphoneos-arm.deb
+Filename: debs/com.opa334.libsandy_1.1.4_iphoneos-arm.deb
 Size: 20546
 MD5sum: 25e8918d912d4ece138a221b6d5731a6
 SHA1: 970b4d73c793ae3561abac288347922818b9b0fe
@@ -1089,7 +1089,7 @@ Architecture: iphoneos-arm64
 Maintainer: opa334
 Installed-Size: 264
 Conflicts: ws.hbang.stopcrashingpls (<= 1.0.2)
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/com.opa334.libsandy_1.1.4_iphoneos-arm64.deb
+Filename: debs/com.opa334.libsandy_1.1.4_iphoneos-arm64.deb
 Size: 12292
 MD5sum: bee1ccf0704990b0f0a1ae1acc8fb92c
 SHA1: f68a597e3420c30b8bca2480c3bb732cad8e2608
@@ -1106,7 +1106,7 @@ Version: 1.1.0~libhooker2
 Architecture: iphoneos-arm
 Maintainer: CoolStar <coolstarorganization@gmail.com>
 Depends: org.coolstar.libhooker
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/rocketbootstrap_1.1.0_libhooker-shim.deb
+Filename: debs/rocketbootstrap_1.1.0_libhooker-shim.deb
 Size: 10444
 MD5sum: baf051456b187d84a08c45129141a9ff
 SHA1: 4327f33c86f776a5005d95a5159234234d3f9ed0
@@ -1126,7 +1126,7 @@ Installed-Size: 144
 Depends: mobilesubstrate (>= 0.9.3367+38)
 Conflicts: safe-mode-fixer-ios7
 Replaces: safe-mode-fixer-ios7
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/com.saurik.substrate.safemode_0.9.6005.deb
+Filename: debs/com.saurik.substrate.safemode_0.9.6005.deb
 Size: 22736
 MD5sum: 73e56c9f8209fc56c8852bfcfd5b23d7
 SHA1: 8bb7866945dac32ad68648ebf38ca343fa715b7d
@@ -1144,7 +1144,7 @@ Architecture: iphoneos-arm
 Maintainer: Samuel Zhang - KidsDev91 (Re-Mod)
 Installed-Size: 172
 Depends: cm90.crossoveripc
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/com.simpzan.jetsamctl_1.3+rootfull_iphoneos-arm.deb
+Filename: debs/com.simpzan.jetsamctl_1.3+rootfull_iphoneos-arm.deb
 Size: 7364
 MD5sum: d4cd0923ea29d3b1f11916e4ed5686ae
 SHA1: e41f19eefa51089d56f6d91a457d20071d922131
@@ -1161,7 +1161,7 @@ Architecture: iphoneos-arm64e
 Maintainer: Samuel Zhang - KidsDev91 (Re-Mod)
 Installed-Size: 172
 Depends: cm90.crossoveripc
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/com.simpzan.jetsamctl_1.3+roothide_iphoneos-arm64e.deb
+Filename: debs/com.simpzan.jetsamctl_1.3+roothide_iphoneos-arm64e.deb
 Size: 7370
 MD5sum: c8680280c1ba9fd5917b18ae939ce11a
 SHA1: c9f7b0b3dcf1c24f0760488587093a46ed37f9e3
@@ -1178,7 +1178,7 @@ Architecture: iphoneos-arm64
 Maintainer: Samuel Zhang - KidsDev91 (Re-Mod)
 Installed-Size: 172
 Depends: cm90.crossoveripc
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/com.simpzan.jetsamctl_1.3+rootless_iphoneos-arm64.deb
+Filename: debs/com.simpzan.jetsamctl_1.3+rootless_iphoneos-arm64.deb
 Size: 7438
 MD5sum: 279ccff0ee7d0376c15af5603e8f7864
 SHA1: 0a2380a5a881edefb3cbdb7ee5304a98cfe8e741
@@ -1197,7 +1197,7 @@ Installed-Size: 6792
 Depends: firmware (>= 10.0), firmware (>= 12.2) | org.swift.libswift, ws.hbang.common (>= 1.13), bash, coreutils, ncurses, system-cmds, com.linusyang.localeutf8
 Conflicts: ws.hbang.newterm, com.lint.ntarrows
 Replaces: ws.hbang.newterm, com.lint.ntarrows
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/com.support-jailbreak.newterm2_2.5_iphoneos-arm.deb
+Filename: debs/com.support-jailbreak.newterm2_2.5_iphoneos-arm.deb
 Size: 3201850
 MD5sum: f21ce17761fa2599a8e7bc2ff1d9c2f6
 SHA1: 0cca30f82901d0af3296c447881dfa176e967cd7
@@ -1215,7 +1215,7 @@ Version: 1.0.1
 Architecture: iphoneos-arm
 Maintainer: Biện Văn Nhật <nhatbien97@gmail.com>
 Depends: plutil, com.supportjailbreak.myinst
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/com.supportjailbreak.cloneappcmd_1.0.1_iphoneos-arm.deb
+Filename: debs/com.supportjailbreak.cloneappcmd_1.0.1_iphoneos-arm.deb
 Size: 2904
 MD5sum: 4cb677a2b1b73c8d82d670561d090d10
 SHA1: 4348fc07ec15815e90af7fda91777d5b885268a8
@@ -1234,7 +1234,7 @@ Architecture: iphoneos-arm
 Maintainer: jjolano
 Installed-Size: 92
 Depends: firmware (<< 15.0), me.jjolano.fmwk.modulous (<= 1.0.9), me.jjolano.fmwk.rootbridge (<= 1.0.2)
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/me.jjolano.fmwk.hookkit_1.0.16~13.7_iphoneos-arm.deb
+Filename: debs/me.jjolano.fmwk.hookkit_1.0.16~13.7_iphoneos-arm.deb
 Size: 8844
 MD5sum: 875425858981b82df218bfc6c4b99ece
 SHA1: a655cb192595fd7be1be7f2a14a5e68a406bafcd
@@ -1251,7 +1251,7 @@ Architecture: iphoneos-arm64e
 Maintainer: jjolano
 Installed-Size: 172
 Depends: firmware (>= 15.0), me.jjolano.fmwk.modulous (>> 1.0.9), me.jjolano.fmwk.rootbridge (>> 1.0.2)
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/me.jjolano.fmwk.hookkit_1.0.17~10+roothide_iphoneos-arm64e.deb
+Filename: debs/me.jjolano.fmwk.hookkit_1.0.17~10+roothide_iphoneos-arm64e.deb
 Size: 12008
 MD5sum: c56665eff08793bf9e8a8572ed526966
 SHA1: 4c008d45946f3623442c278718963ea5f07b8a99
@@ -1268,7 +1268,7 @@ Architecture: iphoneos-arm
 Maintainer: jjolano
 Installed-Size: 92
 Depends: firmware (>= 15.0), me.jjolano.fmwk.modulous (>> 1.0.9), me.jjolano.fmwk.rootbridge (>> 1.0.2)
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/me.jjolano.fmwk.hookkit_1.0.17~14.5_iphoneos-arm.deb
+Filename: debs/me.jjolano.fmwk.hookkit_1.0.17~14.5_iphoneos-arm.deb
 Size: 8892
 MD5sum: 6bb28360114978a78c190d47e1fde15f
 SHA1: d6e43c6e98fe4a7219293d936831a4ae1ef167d6
@@ -1285,7 +1285,7 @@ Architecture: iphoneos-arm64
 Maintainer: jjolano
 Installed-Size: 172
 Depends: firmware (>= 15.0), me.jjolano.fmwk.modulous (>> 1.0.9), me.jjolano.fmwk.rootbridge (>> 1.0.2)
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/me.jjolano.fmwk.hookkit_1.0.17-1~rootless_iphoneos-arm64.deb
+Filename: debs/me.jjolano.fmwk.hookkit_1.0.17-1~rootless_iphoneos-arm64.deb
 Size: 12040
 MD5sum: 1863a46d1389d9d80bb693c720263e95
 SHA1: d10dc1c235f4ab8474ee03bd1293077a92fa0c6b
@@ -1302,7 +1302,7 @@ Architecture: iphoneos-arm64e
 Maintainer: jjolano
 Installed-Size: 168
 Depends: firmware (>= 15.0)
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/me.jjolano.fmwk.modulous_1.0.10~1+roothide_iphoneos-arm64e.deb
+Filename: debs/me.jjolano.fmwk.modulous_1.0.10~1+roothide_iphoneos-arm64e.deb
 Size: 5892
 MD5sum: 681a08f038999b58fb19b7ccf777195e
 SHA1: 81b766d653254d790a4b5017d9f9aad4cad75971
@@ -1319,7 +1319,7 @@ Architecture: iphoneos-arm
 Maintainer: jjolano
 Installed-Size: 88
 Depends: firmware (>= 15.0)
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/me.jjolano.fmwk.modulous_1.0.10~14.5_iphoneos-arm.deb
+Filename: debs/me.jjolano.fmwk.modulous_1.0.10~14.5_iphoneos-arm.deb
 Size: 4872
 MD5sum: 2c31c11e59940d78fa78f98bb1b18148
 SHA1: 11724324f434bd4f4c0925beb8e8747c04dda179
@@ -1336,7 +1336,7 @@ Architecture: iphoneos-arm64
 Maintainer: jjolano
 Installed-Size: 168
 Depends: firmware (>= 15.0)
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/me.jjolano.fmwk.modulous_1.0.10-1~rootless_iphoneos-arm64.deb
+Filename: debs/me.jjolano.fmwk.modulous_1.0.10-1~rootless_iphoneos-arm64.deb
 Size: 6142
 MD5sum: 6a1a707d5d6c16f0319b3bb182b7f239
 SHA1: 522ece2dd081f64d72fa3d94c9692b6660cbba23
@@ -1353,7 +1353,7 @@ Architecture: iphoneos-arm
 Maintainer: jjolano
 Installed-Size: 88
 Depends: firmware (<< 15.0)
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/me.jjolano.fmwk.modulous_1.0.9~13.7_iphoneos-arm.deb
+Filename: debs/me.jjolano.fmwk.modulous_1.0.9~13.7_iphoneos-arm.deb
 Size: 4820
 MD5sum: 4b518022633a319b3a3e99fe0aacd84b
 SHA1: acc43b7538fe5100b6821ece5168a51bc9aac933
@@ -1370,7 +1370,7 @@ Architecture: iphoneos-arm
 Maintainer: jjolano
 Installed-Size: 88
 Depends: firmware (<< 15.0)
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/me.jjolano.fmwk.rootbridge_1.0.2~13.7_iphoneos-arm.deb
+Filename: debs/me.jjolano.fmwk.rootbridge_1.0.2~13.7_iphoneos-arm.deb
 Size: 3140
 MD5sum: 4b6cafbff84ed159294bb109e63d8e08
 SHA1: b586a5b00daa25afe3cbee261757594fbf3ee99a
@@ -1387,7 +1387,7 @@ Architecture: iphoneos-arm64e
 Maintainer: jjolano
 Installed-Size: 168
 Depends: firmware (>= 15.0)
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/me.jjolano.fmwk.rootbridge_1.0.3~1+roothide_iphoneos-arm64e.deb
+Filename: debs/me.jjolano.fmwk.rootbridge_1.0.3~1+roothide_iphoneos-arm64e.deb
 Size: 3952
 MD5sum: a27f7271bc6910fad303107bdd7a8262
 SHA1: 13900d3807eb5bbdf1561fd6caf3167d55135036
@@ -1404,7 +1404,7 @@ Architecture: iphoneos-arm
 Maintainer: jjolano
 Installed-Size: 88
 Depends: firmware (>= 15.0)
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/me.jjolano.fmwk.rootbridge_1.0.3~14.5_iphoneos-arm.deb
+Filename: debs/me.jjolano.fmwk.rootbridge_1.0.3~14.5_iphoneos-arm.deb
 Size: 3144
 MD5sum: e1ba1d1f1a49a1b4f3c3ee968eb4d282
 SHA1: a276485a27a664dbf8bb9468781bd48addfb5fd6
@@ -1421,7 +1421,7 @@ Architecture: iphoneos-arm64
 Maintainer: jjolano
 Installed-Size: 168
 Depends: firmware (>= 15.0)
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/me.jjolano.fmwk.rootbridge_1.0.3-1~rootless_iphoneos-arm64.deb
+Filename: debs/me.jjolano.fmwk.rootbridge_1.0.3-1~rootless_iphoneos-arm64.deb
 Size: 3898
 MD5sum: 8c158778f93407fa6b4e38802a3f610e
 SHA1: 14e84ea559fd9589b6e11ee40178b83cd4379e24
@@ -1440,7 +1440,7 @@ Installed-Size: 168
 Pre-Depends: me.jjolano.fmwk.hookkit
 Depends: ellekit
 Provides: me.jjolano.hkmodule.substrate
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/me.jjolano.hkmodule.ellekit_1.0.7-1_iphoneos-arm64.deb
+Filename: debs/me.jjolano.hkmodule.ellekit_1.0.7-1_iphoneos-arm64.deb
 Size: 4876
 MD5sum: fbf9d0cb5b103c88fa9ee4065b91c7ec
 SHA1: feefa73181c766f6228a1df31d7c9839fb14a591
@@ -1458,7 +1458,7 @@ Installed-Size: 168
 Pre-Depends: me.jjolano.fmwk.hookkit
 Depends: ellekit
 Provides: me.jjolano.hkmodule.substrate
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/me.jjolano.hkmodule.ellekit_1.0.8~1+roothide_iphoneos-arm64e.deb
+Filename: debs/me.jjolano.hkmodule.ellekit_1.0.8~1+roothide_iphoneos-arm64e.deb
 Size: 4852
 MD5sum: a73b22fdbf16aaa1e251cb7a0f6f6659
 SHA1: e3c3f02258884fe19d56d50cf30f8b699dc774ce
@@ -1476,7 +1476,7 @@ Installed-Size: 168
 Pre-Depends: me.jjolano.fmwk.hookkit
 Depends: ellekit
 Provides: me.jjolano.hkmodule.substrate
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/me.jjolano.hkmodule.ellekit_1.0.8~rootfull_iphoneos-arm.deb
+Filename: debs/me.jjolano.hkmodule.ellekit_1.0.8~rootfull_iphoneos-arm.deb
 Size: 4814
 MD5sum: ad570ffc34b1d21d7f76616b4c4df6b0
 SHA1: 98296eb18945215f2bcf7026e4c05ae4ebe37e17
@@ -1494,7 +1494,7 @@ Installed-Size: 88
 Pre-Depends: me.jjolano.fmwk.hookkit (<= 1.0.16)
 Depends: firmware (<< 15.0), mobilesubstrate, com.ex.substitute | com.ex.libsubstitute | science.xnu.substitute
 Provides: me.jjolano.hkmodule.substrate
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/me.jjolano.hkmodule.substitute_1.0.11~13.7_iphoneos-arm.deb
+Filename: debs/me.jjolano.hkmodule.substitute_1.0.11~13.7_iphoneos-arm.deb
 Size: 4018
 MD5sum: 4a3a701b5ccbf4f0b02eeedfb59ad5f7
 SHA1: f8015c6e91c4839cce4daea0d17cb695ccb4145d
@@ -1512,7 +1512,7 @@ Installed-Size: 88
 Pre-Depends: me.jjolano.fmwk.hookkit (>> 1.0.16)
 Depends: firmware (>= 15.0), mobilesubstrate, com.ex.substitute | com.ex.libsubstitute | science.xnu.substitute
 Provides: me.jjolano.hkmodule.substrate
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/me.jjolano.hkmodule.substitute_1.0.12~14.5_iphoneos-arm.deb
+Filename: debs/me.jjolano.hkmodule.substitute_1.0.12~14.5_iphoneos-arm.deb
 Size: 4028
 MD5sum: ad2a96dcf8400424cbcc7e85d739e8d6
 SHA1: fa26314781ab2babf4d5f9b9f77c00c4a8fc2044
@@ -1526,7 +1526,7 @@ Package: org.coolstar.libhooker
 Version: 0.0.1.1
 Architecture: iphoneos-arm
 Maintainer: CoolStar <coolstarorganization@gmail.com>
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/org.coolstar.libhooker-shim_0.0.1.1.deb
+Filename: debs/org.coolstar.libhooker-shim_0.0.1.1.deb
 Size: 5436
 MD5sum: 4b6653470b9ef4d90f92b52be12d7def
 SHA1: 9413bb289ca3783f2a9eb079014fc86b24e8e4f6
@@ -1542,7 +1542,7 @@ Architecture: iphoneos-arm64e
 Maintainer: ProcursusTeam <support@procurs.us>
 Installed-Size: 456
 Depends: mobilesubstrate
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/preferenceloader_2.2.6-11+debug_iphoneos-arm64e.deb
+Filename: debs/preferenceloader_2.2.6-11+debug_iphoneos-arm64e.deb
 Size: 27818
 MD5sum: a2e0ba8d486df80c3deebee923f9081e
 SHA1: d232922d88a46ee8bf70af7fb7d036a4736ebd5b
@@ -1558,7 +1558,7 @@ Architecture: iphoneos-arm64
 Maintainer: Dhinak G <dhinak@dhinak.net>
 Installed-Size: 371
 Depends: mobilesubstrate
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/preferenceloader_2.2.8_iphoneos-arm64.deb
+Filename: debs/preferenceloader_2.2.8_iphoneos-arm64.deb
 Size: 19180
 MD5sum: 11795810cc51f256e38426ea59ca8d2c
 SHA1: 52d0ef5c1c5ad4e1e25d2dce0049823e79ecdae5
@@ -1574,7 +1574,7 @@ Architecture: iphoneos-arm64
 Maintainer: HASHBANG Productions <support@hbang.ws>
 Installed-Size: 3132
 Depends: firmware (>= 15.0)
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/ws.hbang.common_2.0_iphoneos-arm64.deb
+Filename: debs/ws.hbang.common_2.0_iphoneos-arm64.deb
 Size: 198906
 MD5sum: b41babea6af14166166ac70da0d472bb
 SHA1: d7703febee3eaea3b1319d18cff7c7d59a9af2ab
@@ -1594,7 +1594,7 @@ Architecture: iphoneos-arm64e
 Maintainer: HASHBANG Productions <support@hbang.ws>
 Installed-Size: 3132
 Depends: firmware (>= 15.0)
-Filename: https://raw.githubusercontent.com/cuongnt140494/kids-crack/main/debs/ws.hbang.common_2.0-29_iphoneos-arm64e.deb
+Filename: debs/ws.hbang.common_2.0-29_iphoneos-arm64e.deb
 Size: 304566
 MD5sum: 8f10a20e69b6196d558680c6de959a10
 SHA1: 70a6fe7f4ad528248fc1f137edf8c14d23e54082
