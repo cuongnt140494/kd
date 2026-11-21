@@ -6,16 +6,16 @@ Codename: ios
 Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
 Components: main
 Description: iOS Kids Changer + KidsAuto - no login / no activation
-Date: Sat, 21 Nov 2026 09:45:21 +0000
+Date: Sat, 21 Nov 2026 09:46:36 +0000
 
 MD5Sum:
- 162a6a711a6ed3e2b43c1ea9b318d434 63652 Packages
- 29f10042ef4aab1c3d878a815fc664d2 14274 Packages.gz
- 3b80cce0cbf57bd58e2cc136d654ecd0 13057 Packages.bz2
- 26188dffe060dfb7178899486353573d 12424 Packages.xz
+ 339e6888d3a4b8e049654a2d035d3865 63658 Packages
+ ba65fb40d69baffe5e62a7408159d5fd 14275 Packages.gz
+ 32a855ecd8da6d740f138ca0225a8a49 13057 Packages.bz2
+ 5e0239a67665223186aba4e0f4f48825 12420 Packages.xz
 
 SHA256:
- fc8e1144f19aa4c6256de5d5f83e4dec7dde80d2e7ace232dc464271089f6a40 63652 Packages
- b25abe9eb32198fe1a05c79861bc9700eada875403adc6e846accd3e63d369b8 14274 Packages.gz
- 2878f882a58a1f563d69d8042e463fc11f38aebd572f57b0a69cd26f0f56a461 13057 Packages.bz2
- 02852a5a7294b3c9c8ba031f62ae53f41575669d56693b1f21cddcb7343b30d7 12424 Packages.xz
+ 4b2a317fd92f388e18457bfee9ac2e399409459f456600998c85f8e4569dbeb6 63658 Packages
+ a3f044ae6adb7416669c1903d55e4ad28f74cd8187355a0e842b9d54e753c13d 14275 Packages.gz
+ 6a32e899a9d133e0601dd22c879842c32bcce7a06d732f6c702f7d1b5c63e7ec 13057 Packages.bz2
+ 034e37d40c49fd094341431d456e14bd6aa8f617de8a54bb676da13c72c2ca7c 12420 Packages.xz
