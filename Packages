@@ -9,10 +9,10 @@ Architecture: iphoneos-arm64e
 Version: 26.10.01-10+roothide-crack
 Installed-Size: 12360
 Filename: debs/PUBLIC_KidsAutov4_26.10.01-10+roothide_iphoneos-arm64e.deb
-Size: 4449236
-MD5sum: dd1ba841cd8279f4a62cdf2096d4a602
-SHA1: 9145daff2cfd784ed941905b8f20a25491e221fe
-SHA256: 99941bb65994a1a3dd7e371a6761cf4c2527236e2716b1a9a6ce2bd5f5f7d737
+Size: 6367788
+MD5sum: 57716706e1527d738e9144d24f345baa
+SHA1: 9afe4857ef8976e5797ce87678262f9de0694aa5
+SHA256: 73e9f10bbcb7fd22aef104565c017e4573f99a35c33e69cc1c977766f19de551
 
 Package: com.kidsautopro.kidsauto
 Name: KidsAuto v4
@@ -25,10 +25,10 @@ Architecture: iphoneos-arm64
 Version: 26.10.01-10+rootless-crack
 Installed-Size: 12412
 Filename: debs/PUBLIC_KidsAutov4_26.10.01-10+rootless_iphoneos-arm64.deb
-Size: 4452276
-MD5sum: f607bad01a76aa5686132951e6586445
-SHA1: 7c0a85719a1ac5b5bd49b3388b9e44632a52a63f
-SHA256: ddd5e5af1a1bfdcc668ff22707247dfb29944f13c85a58cddefd7c961ced0f13
+Size: 6373420
+MD5sum: 32f5fae585fd9cb8ff9a4d573310f2d5
+SHA1: 862220a1cc9a6e628087f19327862364bdeda66c
+SHA256: afac7cf04d2c01b47403ef3fb94883361afac3f0d9ca0879a7144f21680f9f34
 
 Package: com.kidsautopro.kidsauto
 Name: KidsAuto v4
@@ -41,10 +41,10 @@ Architecture: iphoneos-arm
 Version: 26.09.09-10+rootfull-crack
 Installed-Size: 12260
 Filename: debs/Public_KidsAutov4_26.09.09-10+rootfull_iphoneos-arm.deb
-Size: 4365436
-MD5sum: 9502afb1e1419bd3557ff716fe4fc26c
-SHA1: 46a84115a190d61d0e50b7b0b6d28434ac00ab1b
-SHA256: 3b23e9e74804b9398d1525f3130ff008e26ab58d014e069e0e8ac7ad2fbb62e4
+Size: 6241744
+MD5sum: 3da49ade7e1ee13aa93ee44da3c3e783
+SHA1: 30683ad03c03cee345be7680bbb53a5378d72355
+SHA256: de1cf8d2edc7a2a86fecfb3e9abaf20efb6c9c16ded4bc19d54bdccb537e1842
 
 Package: com.kidsautopro.kidsauto
 Name: KidsAuto v4
@@ -57,10 +57,10 @@ Architecture: iphoneos-arm64e
 Version: 26.09.09-10+roothide-crack
 Installed-Size: 12240
 Filename: debs/Public_KidsAutov4_26.09.09-10+roothide_iphoneos-arm64e.deb
-Size: 4344976
-MD5sum: b4ea9a70de9039f393159235d9270b8d
-SHA1: 476580e69aa818474716f3aacf6e3e18838ff6c9
-SHA256: 3d2fe142613ac718c6a2ae1ff478b35603828800fbfdc6c6e81bc01e39e5b205
+Size: 6228566
+MD5sum: 47a2faffeccbede1efb2bd6d6c9440ea
+SHA1: 05f431873a330e9303b89cb6d98f3ab69b3dce2b
+SHA256: 8b43a0982385ce6fa29f2bf07cf5f6a1af06c613c0ee83518488b89cbd2aa388
 
 Package: com.kidsautopro.kidsauto
 Name: KidsAuto v4
@@ -73,10 +73,10 @@ Architecture: iphoneos-arm64
 Version: 26.09.09-10+rootless-crack
 Installed-Size: 12296
 Filename: debs/Public_KidsAutov4_26.09.09-10+rootless_iphoneos-arm64.deb
-Size: 4372860
-MD5sum: 01335fa4837b8d2c8c3614c42dd3292c
-SHA1: 76be0544e30b1af5f04f317d137e932cb8e85bf8
-SHA256: 76263316b8b23f5b161fdd895e3bbfd360fa344a27dfa340e9b67c3cf08d4b84
+Size: 6252756
+MD5sum: a12580d7db2c6a8759e1f0062227ed64
+SHA1: e3c90c66b84c700e7b061f9f2f295b6c33593b46
+SHA256: 105829b1ad8d2d5f060e4ec5ed95c86dfcfde5b3aa869f238ba37bd3d6aec047
 
 Package: cm90.crossoveripc
 Name: CrossOverIPC
@@ -852,10 +852,10 @@ Architecture: iphoneos-arm
 Version: 4.1.5+rootfull-crack
 Installed-Size: 1824
 Filename: debs/com.iosapp.kidschanger_4.1.5+rootfull_iphoneos-arm.deb
-Size: 1037964
-MD5sum: 026612f8223b63857e02e3deb5808bdc
-SHA1: 23f05fffa97b7a2af1030c1349bd2afcbf78ac28
-SHA256: a045db62acbcb9211f8c54b8bbc5bc8eaa63ee1ebf9a9ff7074d43b4b18296f2
+Size: 1253836
+MD5sum: 01b853b340f37af45e905d123307d2b0
+SHA1: 470910e26ac58f591afb1e6599f3b98c05dbb163
+SHA256: 416c9875b0a8d0fd55a175d2e05f303e8c45ada577acd2d1a20877c627767dd7
 
 Package: com.iosapp.kidschanger
 Name: iOS Kids Changer
@@ -871,10 +871,10 @@ Architecture: iphoneos-arm64e
 Version: 4.1.5+roothide-crack
 Installed-Size: 1824
 Filename: debs/com.iosapp.kidschanger_4.1.5+roothide_iphoneos-arm64e.deb
-Size: 1037252
-MD5sum: d21bb11e7dde873f939b868dab0d3f63
-SHA1: 9a78bc2c2c2fc69644ce924411ad2ce515ac9695
-SHA256: cb50838807aab868ed52d7925822683d801cf4a4ce10d6786a1a6626ab409212
+Size: 1253952
+MD5sum: 4cee75d46e5aadb910bc8494aff318c7
+SHA1: 8a7c797529b0b2bc0fb0e7529a10f96580b5cb37
+SHA256: 22c091b13ad9de6bd825f2f3c3decb5a319b376231d30cb007b3de0f77863f72
 
 Package: com.iosapp.kidschanger
 Name: iOS Kids Changer
@@ -890,10 +890,10 @@ Architecture: iphoneos-arm64
 Version: 4.1.5+rootless-crack
 Installed-Size: 1824
 Filename: debs/com.iosapp.kidschanger_4.1.5+rootless_iphoneos-arm64.deb
-Size: 1039788
-MD5sum: 1a0ffdc9797e3e848788b96e81c38445
-SHA1: 479d91623177ba0cde21e4e0ca404902273a2760
-SHA256: b503c854ee665e5a1f7be30e7d953397fe504ba4f8e7d7d10e6b14163ea553bc
+Size: 1259236
+MD5sum: 92f479558466fe5987292243c5185713
+SHA1: 5172d83311b5d5746c8dcc9098892df895320671
+SHA256: aff7ff5ebe697aa267423b28033aa3f4d4abe46f8188ed83411bb3bc13350a0e
 
 Package: com.kids.utilities
 Name: Kids Utilities
@@ -1187,10 +1187,10 @@ Architecture: iphoneos-arm64e
 Version: 4.1.7+roothide-crack
 Installed-Size: 1844
 Filename: debs/iOSKidsChanger_4.1.7+roothide_iphoneos-arm64e.deb
-Size: 1054376
-MD5sum: f42e478fd52572988b74b8375c22a64d
-SHA1: 0e111d8c8a56b9caa2afee80f89ffda7f874587d
-SHA256: a1458b51553a4da177d7068b293630618b1436b2ac39f97d990fdd2940ebf6cb
+Size: 1274634
+MD5sum: 3bdddd98e7ee8984e17d22715826ad61
+SHA1: 225f660cc04cfc96760800f720187db4c85c578e
+SHA256: 29b85834c9a6ec898154e1d0f5c21c14becac5b7215f7885ef36256ccc902d44
 
 Package: com.iosapp.kidschanger
 Name: iOS Kids Changer
@@ -1206,10 +1206,10 @@ Architecture: iphoneos-arm64
 Version: 4.1.7+rootless-crack
 Installed-Size: 1844
 Filename: debs/iOSKidsChanger_4.1.7+rootless_iphoneos-arm64.deb
-Size: 1057012
-MD5sum: c8b48eed8259b11b85394b74f677bb8c
-SHA1: a6bdb9bc79159fe7194b2b254edf90b31acdaac2
-SHA256: 012a2618673703e7626aa0fde322e335ae55ed7616f7beae50ff72bf2717b294
+Size: 1279492
+MD5sum: d887f21436bc20cd916b2115acecb2f3
+SHA1: 27d9197467327b0013d0a6194bfb966ffd32b836
+SHA256: 9c5c5c69a05c939db6dc03f3ee0e143f5dbe26b5ce3849a7cd34f35821120a09
 
 Package: me.jjolano.fmwk.hookkit
 Name: HookKit Framework
