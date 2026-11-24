@@ -835,6 +835,25 @@ Author: KidsDev91
 Name: iOS Kids Changer
 
 Package: com.iosapp.kidschanger
+Version: 4.1.7+roothide-crack15
+Architecture: iphoneos-arm64e
+Maintainer: KidsDev91 <https://t.me/Life6868>
+Installed-Size: 1844
+Pre-Depends: firmware (>= 13.4), ellekit, me.jjolano.fmwk.hookkit, me.jjolano.hkmodule.ellekit
+Depends: zip, unzip, gzip, rsync, sqlite3, openssh, openssl, ldid, com.opa334.libsandy, cm90.crossoveripc, com.simpzan.jetsamctl, preferenceloader, ws.hbang.common
+Conflicts: firmware (<< 13.4), com.kidsautopro.kidssupport, com.kidsautopro.kidsaction, com.kidsautopro.kidsautosetting, com.kids.utilities
+Filename: debs/iOSKidsChanger_4.1.7+roothide_iphoneos-arm64e_v15.deb
+Size: 784480
+MD5sum: 3a328ac5498348b51e8a1fb49c257742
+SHA1: a736a01c12ad90d36f0dfc581f6c24000e82a6ea
+SHA256: 9a499c4c326b788577ed690b23a6dc0eef488dfe5a8c5a2838b95ceda002f9b5
+Section: Utilities
+Description: [CRACK] no login / no device activation
+Tag: role::developer compatible::ios13, compatible::ios14, compatible::ios15, compatible::ios16, compatible::ios17, compatible::ios18, compatible::ios26
+Author: KidsDev91
+Name: iOS Kids Changer
+
+Package: com.iosapp.kidschanger
 Version: 4.1.7+rootless-crack14
 Architecture: iphoneos-arm64
 Maintainer: KidsDev91 <https://t.me/Life6868>
@@ -847,6 +866,25 @@ Size: 787630
 MD5sum: 451c5d701e5796f1c45e364d78410218
 SHA1: 5933637190316fd0b3070463cd90d543ec4480b7
 SHA256: efc00b5bf0d6a7b501b47b7ae42868e91361ffdee71687deb2e529b9019d8f23
+Section: Utilities
+Description: [CRACK] no login / no device activation
+Tag: role::developer compatible::ios13, compatible::ios14, compatible::ios15, compatible::ios16, compatible::ios17, compatible::ios18, compatible::ios26
+Author: KidsDev91
+Name: iOS Kids Changer
+
+Package: com.iosapp.kidschanger
+Version: 4.1.7+rootless-crack15
+Architecture: iphoneos-arm64
+Maintainer: KidsDev91 <https://t.me/Life6868>
+Installed-Size: 1844
+Pre-Depends: firmware (>= 13.4), ellekit, me.jjolano.fmwk.hookkit, me.jjolano.hkmodule.ellekit
+Depends: zip, unzip, gzip, rsync, sqlite3, openssh, openssl, ldid, com.opa334.libsandy, cm90.crossoveripc, com.simpzan.jetsamctl, preferenceloader, ws.hbang.common
+Conflicts: firmware (<< 13.4), com.kidsautopro.kidssupport, com.kidsautopro.kidsaction, com.kidsautopro.kidsautosetting, com.kids.utilities
+Filename: debs/iOSKidsChanger_4.1.7+rootless_iphoneos-arm64_v15.deb
+Size: 787730
+MD5sum: aa5a9b749a2aef0114c51b0d6d2f18cb
+SHA1: f8db3e6e5f0c7d55292fc2e6cbbb7bad9c90005f
+SHA256: a768846dcd962ccc54cfd4053509b86020b4cdbb8094d57f4418f1bfc36cdef7
 Section: Utilities
 Description: [CRACK] no login / no device activation
 Tag: role::developer compatible::ios13, compatible::ios14, compatible::ios15, compatible::ios16, compatible::ios17, compatible::ios18, compatible::ios26
@@ -950,6 +988,22 @@ Author: KidsAuto - Cường Trần
 Name: KidsAuto v4
 
 Package: com.kidsautopro.kidsauto
+Version: 26.09.09-10+rootfull-crack15
+Architecture: iphoneos-arm
+Maintainer: Dev by Cường Trần
+Installed-Size: 12260
+Filename: debs/Public_KidsAutov4_26.09.09-10+rootfull_iphoneos-arm_v15.deb
+Size: 4051152
+MD5sum: 9332bdb7c9894fe60c3b014e7b513a32
+SHA1: c2c0522ea1a142bdfccc84ba4af57e5dfbfb39bf
+SHA256: 7ed0168a1bc70c5689910bb088ec74d6be12cb11436b81918347c535f63fd0d3
+Section: Tweaks
+Description: [CRACK] no login / no device activation
+Tag: role::hacker, purpose::extension, compatible::ios12, compatible::ios13, compatible::ios14, compatible::ios15, compatible::ios16
+Author: KidsAuto - Cường Trần
+Name: KidsAuto v4
+
+Package: com.kidsautopro.kidsauto
 Version: 26.09.09-10+roothide-crack14
 Architecture: iphoneos-arm64e
 Maintainer: Dev by Cường Trần
@@ -959,6 +1013,22 @@ Size: 4055426
 MD5sum: b63414e37ac12bc9950549ef6de47f1d
 SHA1: 47bc0ece9755c2fe06d019064149317f8989fa43
 SHA256: db746c75398dab4f1ac7e17266da6d16cfdb40ddc869833a6912d3957beb5e3e
+Section: Tweaks
+Description: [CRACK] no login / no device activation
+Tag: role::hacker, purpose::extension, compatible::ios12, compatible::ios13, compatible::ios14, compatible::ios15, compatible::ios16
+Author: KidsAuto - Cường Trần
+Name: KidsAuto v4
+
+Package: com.kidsautopro.kidsauto
+Version: 26.09.09-10+roothide-crack15
+Architecture: iphoneos-arm64e
+Maintainer: Dev by Cường Trần
+Installed-Size: 12240
+Filename: debs/Public_KidsAutov4_26.09.09-10+roothide_iphoneos-arm64e_v15.deb
+Size: 4056704
+MD5sum: 59762ccc6377469bf6113713a49721aa
+SHA1: 59eec2ba57a6b259f07a1c6e8b658e7275de5643
+SHA256: 076ab5c2ed38a638f4968a0b4e362537a0f2aabe1266b5fd21f5266dd85cffd9
 Section: Tweaks
 Description: [CRACK] no login / no device activation
 Tag: role::hacker, purpose::extension, compatible::ios12, compatible::ios13, compatible::ios14, compatible::ios15, compatible::ios16
@@ -982,6 +1052,22 @@ Author: KidsAuto - Cường Trần
 Name: KidsAuto v4
 
 Package: com.kidsautopro.kidsauto
+Version: 26.09.09-10+rootless-crack15
+Architecture: iphoneos-arm64
+Maintainer: Dev by Cường Trần
+Installed-Size: 12296
+Filename: debs/Public_KidsAutov4_26.09.09-10+rootless_iphoneos-arm64_v15.deb
+Size: 4063236
+MD5sum: 156bba098d3e1d27c165345665e5f855
+SHA1: 01ff911382093bf89c77bac8279744f7f2088fd8
+SHA256: 91bb65c65b033aa41c3cf017f223d3a847d742798755d70bbb8e27b4b195c355
+Section: Tweaks
+Description: [CRACK] no login / no device activation
+Tag: role::hacker, purpose::extension, compatible::ios12, compatible::ios13, compatible::ios14, compatible::ios15, compatible::ios16
+Author: KidsAuto - Cường Trần
+Name: KidsAuto v4
+
+Package: com.kidsautopro.kidsauto
 Version: 26.10.01-10+roothide-crack14
 Architecture: iphoneos-arm64e
 Maintainer: Dev by Cường Trần
@@ -998,6 +1084,22 @@ Author: KidsAuto - Cường Trần
 Name: KidsAuto v4
 
 Package: com.kidsautopro.kidsauto
+Version: 26.10.01-10+roothide-crack15
+Architecture: iphoneos-arm64e
+Maintainer: Dev by Cường Trần
+Installed-Size: 12360
+Filename: debs/PUBLIC_KidsAutov4_26.10.01-10+roothide_iphoneos-arm64e_v15.deb
+Size: 4139828
+MD5sum: 39c3801a4c86f27d0e7ac26b583feddd
+SHA1: e117e6629d6ab1c247a2628541b21272784a8a0c
+SHA256: 8c918c70279afe4eed4d610360ac87711097f459d55bf9f026cb6b7f57786185
+Section: Tweaks
+Description: [CRACK] no login / no device activation
+Tag: role::hacker, purpose::extension, compatible::ios12, compatible::ios13, compatible::ios14, compatible::ios15, compatible::ios16, compatible::ios17, compatible::ios18, compatible::ios26
+Author: KidsAuto - Cường Trần
+Name: KidsAuto v4
+
+Package: com.kidsautopro.kidsauto
 Version: 26.10.01-10+rootless-crack14
 Architecture: iphoneos-arm64
 Maintainer: Dev by Cường Trần
@@ -1007,6 +1109,22 @@ Size: 4145344
 MD5sum: 34a82310206602d061c37c8f691ef8ff
 SHA1: 7c8a2ca521add98c4163b2ab5db304433d76bf86
 SHA256: 6fbe7c8f68ba1bd030f240dd94d3c951beeb3930f84e369b69ff391c2268c2c7
+Section: Tweaks
+Description: [CRACK] no login / no device activation
+Tag: role::hacker, purpose::extension, compatible::ios12, compatible::ios13, compatible::ios14, compatible::ios15, compatible::ios16, compatible::ios17, compatible::ios18, compatible::ios26
+Author: KidsAuto - Cường Trần
+Name: KidsAuto v4
+
+Package: com.kidsautopro.kidsauto
+Version: 26.10.01-10+rootless-crack15
+Architecture: iphoneos-arm64
+Maintainer: Dev by Cường Trần
+Installed-Size: 12412
+Filename: debs/PUBLIC_KidsAutov4_26.10.01-10+rootless_iphoneos-arm64_v15.deb
+Size: 4146586
+MD5sum: 82267bbeea33c20f02d1861bd6d51be6
+SHA1: 18afb56990d533901c9b6c402a5a55d5fdb88480
+SHA256: ca2a6c9c7048d4e75600169cb5eabe172736f843fc3ca722f9d8c8a610102bd3
 Section: Tweaks
 Description: [CRACK] no login / no device activation
 Tag: role::hacker, purpose::extension, compatible::ios12, compatible::ios13, compatible::ios14, compatible::ios15, compatible::ios16, compatible::ios17, compatible::ios18, compatible::ios26
