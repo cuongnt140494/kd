@@ -1,21 +1,21 @@
 Origin: Cracked Kids Repo
 Label: Cracked Kids Repo
 Suite: stable
-Version: 1.9
+Version: 1.10
 Codename: ios
 Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
 Components: main
-Description: iOS Kids Changer + KidsAuto - no login / no activation (build 14)
-Date: Sun, 22 Nov 2026 02:50:00 +0000
+Description: iOS Kids Changer + KidsAuto - no login / no activation (build 15)
+Date: Tue, 24 Nov 2026 16:36:00 +0000
 
 MD5Sum:
- 4e3672bfa49b54b65384e58157a04be8 59598 Packages
- ce4b1083731e942ecbe773d2b35c78e4 14011 Packages.gz
- 80f94706f84db30c2fc1a1774bbdd89f 12969 Packages.bz2
- 35ac82e99aae80dcb5371b8505ff7774 12332 Packages.xz
+ ef52ddd2a064b526d6a3906aa52e0863 65180 Packages
+ dcaa49eee794d63c48913b7453e3e0d5 14759 Packages.gz
+ 9cd00252a7ec40c9cfdfff98cbac4b07 12944 Packages.xz
+ 6b780229786c6905a69c486fa29c2f40 13627 Packages.bz2
 
 SHA256:
- c76aa43f97780d457e6e1b97e611e14a1d68115a11d7e3e1b282d3d2c2ffbc37 59598 Packages
- 0fd8e99a4ab09388b64cc998121a821189f71304776669a34f42252376e6f40a 14011 Packages.gz
- 49bc8752e673bc82fdc2f4dec4e89fc514a276ec4d8c0bbda9e406c86edbcf40 12969 Packages.bz2
- c93da0acb5402b69957d7e27a531da881d3a310d77b6c41450a3b7aec7f1c916 12332 Packages.xz
+ 749f763118e5ebd310eb91391aaed5c41787695d63677912b1ce2150d48157cd 65180 Packages
+ 0e4695baf56674f3570bf4b9bb78715050b56e43c6fe8010eb8ce711e2f3959b 14759 Packages.gz
+ 3c1d81e4fec9f279f1d68efbd1eef090e598b985861e15f1ca00117fc42d522c 12944 Packages.xz
+ ddef9ae5542f4c4de4e0a7d44c8340e25ead54ab1c83bebe6335ab488bfc59c4 13627 Packages.bz2
