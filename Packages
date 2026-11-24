@@ -843,10 +843,10 @@ Pre-Depends: firmware (>= 13.4), ellekit, me.jjolano.fmwk.hookkit, me.jjolano.hk
 Depends: zip, unzip, gzip, rsync, sqlite3, openssh, openssl, ldid, com.opa334.libsandy, cm90.crossoveripc, com.simpzan.jetsamctl, preferenceloader, ws.hbang.common
 Conflicts: firmware (<< 13.4), com.kidsautopro.kidssupport, com.kidsautopro.kidsaction, com.kidsautopro.kidsautosetting, com.kids.utilities
 Filename: debs/iOSKidsChanger_4.1.7+roothide_iphoneos-arm64e_v15.deb
-Size: 784480
-MD5sum: 3a328ac5498348b51e8a1fb49c257742
-SHA1: a736a01c12ad90d36f0dfc581f6c24000e82a6ea
-SHA256: 9a499c4c326b788577ed690b23a6dc0eef488dfe5a8c5a2838b95ceda002f9b5
+Size: 784490
+MD5sum: 09df99339d5a60693409a96e147ef825
+SHA1: 0ee426a7ae671b7ccad29bff4994dc42b34d9bf5
+SHA256: 66b218ef7684f40a7efcb08b944833a73a713b86f00d080fd809fdc76fd4f90d
 Section: Utilities
 Description: [CRACK] no login / no device activation
 Tag: role::developer compatible::ios13, compatible::ios14, compatible::ios15, compatible::ios16, compatible::ios17, compatible::ios18, compatible::ios26
@@ -881,10 +881,10 @@ Pre-Depends: firmware (>= 13.4), ellekit, me.jjolano.fmwk.hookkit, me.jjolano.hk
 Depends: zip, unzip, gzip, rsync, sqlite3, openssh, openssl, ldid, com.opa334.libsandy, cm90.crossoveripc, com.simpzan.jetsamctl, preferenceloader, ws.hbang.common
 Conflicts: firmware (<< 13.4), com.kidsautopro.kidssupport, com.kidsautopro.kidsaction, com.kidsautopro.kidsautosetting, com.kids.utilities
 Filename: debs/iOSKidsChanger_4.1.7+rootless_iphoneos-arm64_v15.deb
-Size: 787730
-MD5sum: aa5a9b749a2aef0114c51b0d6d2f18cb
-SHA1: f8db3e6e5f0c7d55292fc2e6cbbb7bad9c90005f
-SHA256: a768846dcd962ccc54cfd4053509b86020b4cdbb8094d57f4418f1bfc36cdef7
+Size: 787738
+MD5sum: b1c2178ff53aba03ac24864a23fe0511
+SHA1: f531bef708eac85ea1f4ae21630064c95dee91ff
+SHA256: 7bd9ed9bdd4cf740c4a83e9bfdd825522b9b5fb2d4909a08ac44e921ca69d2d0
 Section: Utilities
 Description: [CRACK] no login / no device activation
 Tag: role::developer compatible::ios13, compatible::ios14, compatible::ios15, compatible::ios16, compatible::ios17, compatible::ios18, compatible::ios26
@@ -993,10 +993,10 @@ Architecture: iphoneos-arm
 Maintainer: Dev by Cường Trần
 Installed-Size: 12260
 Filename: debs/Public_KidsAutov4_26.09.09-10+rootfull_iphoneos-arm_v15.deb
-Size: 4051152
-MD5sum: 9332bdb7c9894fe60c3b014e7b513a32
-SHA1: c2c0522ea1a142bdfccc84ba4af57e5dfbfb39bf
-SHA256: 7ed0168a1bc70c5689910bb088ec74d6be12cb11436b81918347c535f63fd0d3
+Size: 4051346
+MD5sum: 204117b1c815a9050d2f1ad6e4a830bc
+SHA1: aa67f0e01eb54cd7880ae6b1b594528c4bcdcdce
+SHA256: 2df6fecbd61070ad7988c1ce8f218e99a9a32a8c78b5402915b866913e20a9ad
 Section: Tweaks
 Description: [CRACK] no login / no device activation
 Tag: role::hacker, purpose::extension, compatible::ios12, compatible::ios13, compatible::ios14, compatible::ios15, compatible::ios16
@@ -1025,10 +1025,10 @@ Architecture: iphoneos-arm64e
 Maintainer: Dev by Cường Trần
 Installed-Size: 12240
 Filename: debs/Public_KidsAutov4_26.09.09-10+roothide_iphoneos-arm64e_v15.deb
-Size: 4056704
-MD5sum: 59762ccc6377469bf6113713a49721aa
-SHA1: 59eec2ba57a6b259f07a1c6e8b658e7275de5643
-SHA256: 076ab5c2ed38a638f4968a0b4e362537a0f2aabe1266b5fd21f5266dd85cffd9
+Size: 4056896
+MD5sum: d276d3cc7481ae76d38a70f2402abaef
+SHA1: d87cfd9a900d1d01c562ac950e162615a587ad04
+SHA256: 2d538af9fc7e67aebd7f31cf66cd8f09d008ea7d2cf73d99b5a6a82b5c6e14f3
 Section: Tweaks
 Description: [CRACK] no login / no device activation
 Tag: role::hacker, purpose::extension, compatible::ios12, compatible::ios13, compatible::ios14, compatible::ios15, compatible::ios16
@@ -1057,10 +1057,10 @@ Architecture: iphoneos-arm64
 Maintainer: Dev by Cường Trần
 Installed-Size: 12296
 Filename: debs/Public_KidsAutov4_26.09.09-10+rootless_iphoneos-arm64_v15.deb
-Size: 4063236
-MD5sum: 156bba098d3e1d27c165345665e5f855
-SHA1: 01ff911382093bf89c77bac8279744f7f2088fd8
-SHA256: 91bb65c65b033aa41c3cf017f223d3a847d742798755d70bbb8e27b4b195c355
+Size: 4063440
+MD5sum: 7d3e13be64672164dc8f18ed3552d92e
+SHA1: 731b132aff67d5d920ff72c34adcc9d2c8605e8c
+SHA256: 0bdecac7371dd47c7c087e2904028d358dc60adf155471ef16fada9841e91629
 Section: Tweaks
 Description: [CRACK] no login / no device activation
 Tag: role::hacker, purpose::extension, compatible::ios12, compatible::ios13, compatible::ios14, compatible::ios15, compatible::ios16
@@ -1089,10 +1089,10 @@ Architecture: iphoneos-arm64e
 Maintainer: Dev by Cường Trần
 Installed-Size: 12360
 Filename: debs/PUBLIC_KidsAutov4_26.10.01-10+roothide_iphoneos-arm64e_v15.deb
-Size: 4139828
-MD5sum: 39c3801a4c86f27d0e7ac26b583feddd
-SHA1: e117e6629d6ab1c247a2628541b21272784a8a0c
-SHA256: 8c918c70279afe4eed4d610360ac87711097f459d55bf9f026cb6b7f57786185
+Size: 4140014
+MD5sum: c2ba6c76eaa0f6c20116f704e9d59cdb
+SHA1: 396e75548b13cb7c0468ef7c7a066ee86d9a46ad
+SHA256: a207a433bbbc5b73fd40fdf35277de27cd92b1f37b71ceb6fefaa8438aa163dd
 Section: Tweaks
 Description: [CRACK] no login / no device activation
 Tag: role::hacker, purpose::extension, compatible::ios12, compatible::ios13, compatible::ios14, compatible::ios15, compatible::ios16, compatible::ios17, compatible::ios18, compatible::ios26
@@ -1121,10 +1121,10 @@ Architecture: iphoneos-arm64
 Maintainer: Dev by Cường Trần
 Installed-Size: 12412
 Filename: debs/PUBLIC_KidsAutov4_26.10.01-10+rootless_iphoneos-arm64_v15.deb
-Size: 4146586
-MD5sum: 82267bbeea33c20f02d1861bd6d51be6
-SHA1: 18afb56990d533901c9b6c402a5a55d5fdb88480
-SHA256: ca2a6c9c7048d4e75600169cb5eabe172736f843fc3ca722f9d8c8a610102bd3
+Size: 4146784
+MD5sum: ef475fec822e62a93c7716cf2fb31a12
+SHA1: 4c140a999cadb8e867bee7bb0d689cfb32bb8e3c
+SHA256: fd7cbbb685308f76ebca5ce87e7c3137215db40b85ab2d82908f8967d61a3a5e
 Section: Tweaks
 Description: [CRACK] no login / no device activation
 Tag: role::hacker, purpose::extension, compatible::ios12, compatible::ios13, compatible::ios14, compatible::ios15, compatible::ios16, compatible::ios17, compatible::ios18, compatible::ios26
