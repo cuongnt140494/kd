@@ -4,9 +4,9 @@ Bản crack của bộ **iOS Kids Changer + KidsAuto v4**. Đã bỏ đăng nh�
 
 ## Dấu hiệu nhận biết bản crack
 
-- Tên app ngoài màn hình: **[C15] Kids Changer**
-- Trong màn login, dòng trạng thái hiện: **✅ CRACKED BUILD 15**
-- Version gói có đuôi `-crack15` (ví dụ `4.1.7+rootless-crack15`)
+- Tên app ngoài màn hình: **[C16] Kids Changer**
+- Trong màn login, dòng trạng thái hiện: **✅ CRACKED BUILD 16**
+- Version gói có đuôi `-crack16` (ví dụ `4.1.7+rootless-crack16`)
 
 ## Cài đặt
 
